@@ -2,10 +2,20 @@
 
 ![test](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif)
 
+## Table of contents
+[1: Web application](#1-web-application)</br>
+[2: Software quality](#2-software-quality)</br>
+[3: Agile method](#3-agile-method)</br>
+[4: Roadmap](#4-roadmap)</br>
+[5: CI/CD](#5-ci-cd)</br>
+[6: Requirements and design](#6-requirements-and-design)</br>
+[7: Business processes](#7-business-processes)</br>
+[8: Professional](#8-professional)</br>
+ 
 <!-- TABLE OF CONTENTS -->
-<!--<h3>Table of Contents</h3>
-  <ol>
-    <li>
+<h2>Table of Contents</h2>
+
+ <!--   <li>
       <a href="#web-application">Web application</a>
     </li>
     <li>
@@ -23,7 +33,6 @@
     <li><a href="#professional">Professional</a></li>
   </ol>
 
--->
  
  <!-- Web Application -->
 <details>
@@ -80,3 +89,13 @@ Web application
   <summary>Professional</summary>
 
  </details>
+
+
+## 1: Web application
+## 2: Software quality
+## 3: Agile method
+## 4: Roadmap
+## 5: CI-CD
+## 6: Requirements and design
+## 7: Business processes
+## 8: Professional
