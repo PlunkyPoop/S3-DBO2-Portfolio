@@ -127,9 +127,35 @@ There are 5 different mainly used Agile methods:
 When using scrum you work in sprints, those are cycles in the development. You start with a startup to discuss what is the plan is for the day. When using scrum it focuses more on quality resulting in less mistakes. When you get a daily assignment it's more motivating when you finish the task for a day. The disadvantage of using scrum is losing track of the whole process of the project and team members not knowing their role in the project. </br>
 
 <h3>Lean</h3>
-Lean is created by Toyota, 
+Lean is created by Toyota, it works with 5 principles:
+<ul>
+<li>Value - Knowing and understanding what the customer is willing to pay for.</li>
+<li>Value stream mapping - mapping the sequence the product goes through in the company.</li>
+<li>Flow - Making sure the information runs smoothly without delay.</li>
+<li>Pull - Replacing materials that are actually used and eleminating uneunnecessary elements.</li>
+<li>Perfection - Striving the eleminate waste and to improve the value for the customer. </li>
+</ul>
+Lean is very customer focused, all customers wishes are defined as value. Activity that is non-value add(so not really useful for the customer) is defined as waste. And because we don't want more waste in the world we have to reduce that. 
 
-[Top 5 main Agile methodologies: advantages and disadvantages](https://www.xpand-it.com/blog/top-5-agile-methodologies/)
+<h3>Kanban</h3>
+Kanban is a workflow management method created in Japan, the word 'Kanban' means 'visualboard' or 'sign'. This method is organised on a board and divided into columns showing the flow within the software production. Because Kanban doesn't really use timeframes (like sprints with scrum), there is a posibility that time problems will develop. Kanban is one of the easiest to use outside of an IT related project. 
+
+<h3>Extreme Programming</h3>
+XP, or Extreme Programming is created to improve software quality. When working with the XP method you release in short development cycles, this way you improve productivity and introduce more checkpoints to adopt new customer wishes. With XP you don't program features untill they are actually needed, expecting changes in customers requirements along the way. Code reviews are viewed as a beneficial practice and code will be reviewed continuously. 
+
+<h3>Crystal</h3>
+From these 5 Agile methods, Crystal can be seen as the most flexible methods. It is mainly used for short-term projects by a team working from the same workspace. With Crystal teams can work the way they think is most effective. By just going with the flow the team can easily adapt to requirement changes. Crystal emphasizes team collaboration and de-emphasizing documentation and reporting, this can lead to confusion in the code and less visibility  into the teams progress.
+</br>
+</br>
+<a href="https://www.xpand-it.com/blog/top-5-agile-methodologies/">Top 5 main Agile methodologies: advantages and disadvantages</a></br>
+<a href="https://leanmethods.com/resources/articles/what-is-lean/">What Is Lean?</a></br>
+<a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban">What Is Kanban?</a></br>
+<a href="https://en.wikipedia.org/wiki/Extreme_programming">Extreme programming</a></br>
+<a href="https://www.productplan.com/glossary/crystal-agile-framework/">Crystal Agile Framework</a></br>
+
+
+
+
 
 
 </details>
