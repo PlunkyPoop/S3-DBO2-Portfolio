@@ -93,15 +93,6 @@ I have decided to put the image right and the title and description left, for ea
 </br>
 I also have an alternative design where the colors of the background are dynamic and change with the colors of the poster</br>
 <a href='https://postimg.cc/rz13LWjT' target='_blank'><img src='https://i.postimg.cc/jqmbP4JD/Hub-2.png' border='0' alt='Hub-2'/></a>
-
-
-
-
-
-
-
-
-
 </details>
 
 
@@ -121,6 +112,34 @@ Choose:
 You are aware of the most popular agile methods and their underlying agile principles. 
 Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 ```
+<details> 
+ <summary>Which different Agile methods are there?</summary>
+</br>
+
+There are 5 different mainly used Agile methods: 
++ Scrum
++ Lean
++ Kanban
++ XP (Extreme Programming)
++ Crystal
+
+<h3>Scrum</h3>
+When using scrum you work in sprints, those are cycles in the development. You start with a startup to discuss what is the plan is for the day. When using scrum it focuses more on quality resulting in less mistakes. When you get a daily assignment it's more motivating when you finish the task for a day. The disadvantage of using scrum is losing track of the whole process of the project and team members not knowing their role in the project. </br>
+
+<h3>Lean</h3>
+Lean is created by Toyota, 
+
+[Top 5 main Agile methodologies: advantages and disadvantages](https://www.xpand-it.com/blog/top-5-agile-methodologies/)
+
+
+</details>
+</br>
+<details> 
+ <summary>What Agile method will I use and why?</summary>
+ I first looked at Scrum, the way I see it it would work best in a groupsproject instead of an indivual project. 
+</br>
+
+</details>
 
 ## 4: CI-CD
 ```
