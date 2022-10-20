@@ -91,6 +91,27 @@ I also have an alternative design where the colors of the background are dynamic
 </details>
 
 
+ <details>
+<summary>What front-end am I going to use in my project? </summary>
+</br>
+When looking into front-end frameworks / technologies I was hesitating between 3 options:
+<ul>
+<li>C#</li>
+<li>React.js</li>
+<li>Angular</li>
+</ul>
+
+Because I already worked with C# for most of my previous year and previous school I decided to try something new. Choosing between React and Angular was difficult because a lot of sources online seemed biased towards one or the other, so I decided to look at the <a href="https://survey.stackoverflow.co/2022/#most-loved-dreaded-and-wanted-webframe-want">Stackoverflow survey</a> to help me make a decision. Where I came along this quote: 
+> "Angular.js is in its third year as the most dreaded. React.js completes its fifth year as most wanted." 
+
+So I decided to go with React.js as my front-end to get the basic project going but when I have time I'm going look into Angular to experience "the hatred" for myself.
+</details>
+
+<details>
+<summary>What backend am I going to use in my project? </summary>
+</br>
+I'm not going to lie, when looking into backend languages I have looked into a few but ended up choosing the same language as my group-project, which is: <b>Springboot</b>. I chose this to make my life a little easier and just to 
+</details>
 
 
 
