@@ -110,7 +110,7 @@ So I decided to go with React.js as my front-end to get the basic project going 
 <details>
 <summary>What backend am I going to use in my project? </summary>
 </br>
-I'm not going to lie, when looking into backend languages I have looked into a few but ended up choosing the same language as my group-project, which is: <b>Springboot</b>. I chose this to make my life a little easier and just to 
+I'm not going to lie, when looking into backend languages I have looked into a few but ended up choosing the same language as my group-project, which is: <b>Springboot</b>. I chose this to make my life a little easier and just to make sure I can use my knowledge in both projects.
 </details>
 
 
