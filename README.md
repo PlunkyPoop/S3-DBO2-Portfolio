@@ -14,12 +14,7 @@
  
 
  
- <!-- Web Application -->
-<details>
-  <summary>Web Application </summary>
-   
-Web application
- </details>
+
  
 
 
@@ -161,8 +156,8 @@ From these 5 Agile methods, Crystal can be seen as the most flexible methods. It
 </details>
 </br>
 <details> 
- <summary>What Agile method will I use and why?</summary>
- I first looked at Scrum, the way I see it it would work best in a groupsproject instead of an indivual project. 
+ <summary>What Agile method will I use and why?</summary></br>
+ I first looked at Scrum, the way I see it it would work best in a groupsproject instead of an indivual project. So I have decided to work in the Crystal method cause that seemed like the most flexible option because I'm still figuring out what functionalities my project will consists of and because it's a short-term project. 
 </br>
 
 </details>
@@ -185,6 +180,46 @@ Adapt your communication, working, and behavior styles to reflect project stakeh
 from different cultures; Address one of the standard Programming Ethical Guidelines 
 (e.g., ACM Code of Ethics and Professional Conduct) in your work.  
 ```
+</br>
+<details> 
+ <summary>Which cultural differences are there in the programming?</summary>
+</br>
+While researching for some cultural differences I didn't find much, when reading a few post from developers working abroad or with different international teams they said that for the most part there are no differences only a language barrier and communication problems.
+</br>
+</br>
+ <a href="https://www.quora.com/What-are-some-cultural-differences-between-programmers-around-the-world-which-affect-their-programs">What are some cultural differences between programmers around the world</a></br>
+ 
+ 
+
+</br>
+
+</details>
+
+<details> 
+ <summary>What cultural ethics are there in programming?</summary>
+ </br>
+ 
+ There are a few ethics to keep in mind while programming. Here are the 8 principles:</br>
+ <ul>
+
+<li>Public - "Software engineers shall act consistently with the public interest."</li>
+<li>Client and employer - "Software engineers shall act in a manner that is in the best interests of their client and employer consistent with the public interest.</li>
+<li>Product - "Software engineers shall ensure that their products and related modifications meet the highest professional standards possible."</li>
+<li>Judgement - "Software engineers shall maintain integrity and independence in their professional judgment."</li>
+<li>Management -  "Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and maintenance." </li>
+<li>Profession - "Software engineers shall advance the integrity and reputation of the profession consistent with the public interest." </li>
+<li>Colleagues - "Software engineers shall be fair to and supportive of their colleagues." </li>
+<li>Self - "Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession." </li>
+</ul>
+ 
+  </br>
+  </br>
+ <a href="https://ethics.acm.org/code-of-ethics/software-engineering-code/">The Software Engineering Code of Ethics and Professional Practice</a></br>
+
+</br>
+
+</details>
+
 ## 6: Requirements and design
 ```
 Multiple types of test techniques: 
