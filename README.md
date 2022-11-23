@@ -330,7 +330,10 @@ If we look at this design created by [CMARIX TechnoLabs](https://www.cmarix.com/
 Created by: [aPurple](https://www.apurple.co/)
 
 </details>
-
+ <details> 
+  <summary>Wireframe</summary>
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/60787548/203567444-b498cb14-e493-4e77-9fcb-1f636bd29a1a.png">
+</details>
  <details> 
  <summary>My design</summary>
 </br>
