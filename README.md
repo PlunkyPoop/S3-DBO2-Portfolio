@@ -128,6 +128,33 @@ Choose:
 You are aware of the most popular agile methods and their underlying agile principles. 
 Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 ```
+
+
+</details>
+</br>
+<details> 
+ <summary>What are the basic Agile principles?</summary></br>
+</br>
+An Agile method consists of 12 basic principles, which are the following:</br></br>
+<ol type="1">
+  <li>Satisfying the customer</li>
+  <li>Welcome requirement changes</li>
+  <li>Deliver working software regularly</li>
+  <li>Business and software people need to work together daily</li>
+  <li>Build software around motivated people</li>
+  <li>Most efficient way to convey information is face-to-face</li>
+  <li>Measure progress in working software</li>
+  <li>Promote sustainable development (everyone involved should be able to maintain a contant pace)</li>
+  <li>Improve agility with attention to the technical and design side</li>
+  <li>Simplify "the amount of work not done"</li>
+  <li>The best results come from a self-orginazing team</li>
+  <li>Regularly reflect with the team on the progress and behavior</li>
+</ol>  
+
+<a href="https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/">The 12 Principles behind the Agile</a></br>
+<a href="https://kanbanize.com/agile/project-management/principles">What Are the 12 Principles of Agile Project Management?</a></br>
+</details>
+
 <details> 
  <summary>Which different Agile methods are there?</summary>
 </br>
@@ -171,15 +198,30 @@ From these 5 Agile methods, Crystal can be seen as the most flexible methods. It
 
 
 
-
-
-
 </details>
-</br>
 <details> 
  <summary>What Agile method will I use and why?</summary></br>
  I first looked at Scrum, the way I see it it would work best in a groupsproject instead of an indivual project. So I have decided to work in the Crystal method cause that seemed like the most flexible option because I'm still figuring out what functionalities my project will consists of and because it's a short-term project. 
 </br>
+For my group project we use the Scrum method. We set up a Jira board with all the issues (and child issues) and split these into sprints. 
+<a href='https://postimg.cc/NyZ4Rs7J' target='_blank'><img src='https://i.postimg.cc/XJYzSXZb/Schermafbeelding-2022-11-23-105130.png' border='0' alt='Schermafbeelding-2022-11-23-105130'/></a>
+
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/60787548/203517227-d3c61986-2928-478d-833d-34a4c2679fd2.png">
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60787548/203518142-789e6e5f-3f66-4446-9597-a34b5af2a66f.gif)
+
+
+</br>
+And we also use a time table to easily calculate how long we think we need to finish a issue:
+<img width="1217" alt="image" src="https://user-images.githubusercontent.com/60787548/203518435-c886ea2c-9523-427d-8396-0078b0c331e9.png">
+</br>
+After we finish a sprint we reflect on it by using <a href="https://metroretro.io/">Metro retro</a></br>
+
+<img width="1215" alt="image" src="https://user-images.githubusercontent.com/60787548/203520259-8b7468e8-3f88-48eb-b158-14dea8c21b04.png">
+
+
+
+
 
 </details>
 
@@ -208,7 +250,8 @@ from different cultures; Address one of the standard Programming Ethical Guideli
 While researching for some cultural differences I didn't find much, when reading a few post from developers working abroad or with different international teams they said that for the most part there are no differences only a language barrier and communication problems.
 </br>
 </br>
- <a href="https://www.quora.com/What-are-some-cultural-differences-between-programmers-around-the-world-which-affect-their-programs">What are some cultural differences between programmers around the world</a></br>
+
+
  
  
 
