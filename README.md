@@ -29,67 +29,15 @@ application implementing relevant communication protocols, persistence of data b
 communication issues.
 ```
 
-<details>
-  <summary>What are some practices in creating user interfaces? </summary>
-</br>
 
-Before I can even decide how I'm going to implement "the best practices" I need to research and understand which user interface design basics are used when making a front-end.
 
-When researching I learned that's important to know what the goal of the user is before even designing anything. After establishing the goal it's important to keep the design simple, it's important for the user to understand the purpose of the app. Little animations in the buttons the keep the user engaged and give feedback is also important. 
-
-So to sum it up:
-+ Know the goal of the user
-+ Create an easy-to-navigate interface / simple design 
-+ Changes in state and helpful information by animations
-
-There are a lot more practices in creating a good UI design but in my case I will focus on those 3 points 
-
-[Best Practices for Designing an Interface](https://www.usability.gov/what-and-why/user-interface-design.html)</br>
-[The 4 Golden Rules of UI Design](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/)</br>
-[Design Consistency Guide UI and UX Best Practices](https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/#h-1-start-with-user-research)
-</br>
-
- </details>
  <details>
 <summary>What is the goal of the user? </summary>
 </br>
 In my case it's an easy way to access different streaming platforms with little information about the show or movie they are watching. It's important for the user to quickly and easily understand the purpose of the app in a single glance. 
 
 </details>
- <details> 
- <summary>Examples of other designs</summary>
-</br>
-When researching I though it would be smart to first examine how the streaming services show the user where they left of before even searching for designs from other people online. </br></br>
-
-Firsly I looked at Plex:
-![image](https://user-images.githubusercontent.com/60787548/195307580-87997667-faa1-4dfb-b0b8-3fc82df30712.png)</br>
-Plex uses the poster on the right with the title and a little description on the left. They show the rating and three simple buttons which get a different color when hovering over it to indicate that it will perform an action when clicking on it.</br>
-
-Secondly I looked at Netflix:</br>
-![image](https://user-images.githubusercontent.com/60787548/195308852-0e8bf976-9e67-4d30-9b6d-9814f458ca47.png)</br>
-As you can see, they have almost the same design as Plex with the image on the right and a title and description on the left. With two simple buttons which change color when hovering over it to indicate it's a button with an action. </br>
-
-To make it easier for user to understand my app I will also base my design on these two designs. </br> </br>
-Now let's look at some different designs created by designers online. </br>
-![image](https://user-images.githubusercontent.com/60787548/195311419-54d2c048-15e8-471e-9b68-e612d12b7909.png)
-If we look at this design created by [CMARIX TechnoLabs](https://www.cmarix.com/) we can also see the title on the left but this design has the image more centered, and again the simple buttons.
-
-![image](https://user-images.githubusercontent.com/60787548/195312662-104bfd17-f3c9-43fc-9c51-a3ffefb70660.png)
-Created by: [aPurple](https://www.apurple.co/)
-
-</details>
-
- <details> 
- <summary>My design</summary>
-</br>
-Based on the 3 practices and the other streaming service examples I can up with the following design:</br></br>
-I have decided to put the image right and the title and description left, for each different streaming service it will show where they left off (if the login and api data is available)</br>
-<a href='https://postimg.cc/xXyWymkg' target='_blank'><img src='https://i.postimg.cc/7Zpw4Mqv/Hub-Design-1.png' border='0' alt='Hub-Design-1'/></a>
-</br>
-I also have an alternative design where the colors of the background are dynamic and change with the colors of the poster</br>
-<a href='https://postimg.cc/rz13LWjT' target='_blank'><img src='https://i.postimg.cc/jqmbP4JD/Hub-2.png' border='0' alt='Hub-2'/></a>
-</details>
-
+ 
 
  <details>
 <summary>What front-end am I going to use in my project? </summary>
@@ -121,6 +69,10 @@ Tooling and methodology:
 Carry out, monitor and report on unit integration, regression and system tests, with attention for security and
 performance aspects, as well as applying static code analysis and code reviews.
 ```
+<br>
+I have installed PVS studio to check my software quality and it succeeded without fails
+<img width="321" alt="Schermafbeelding 2022-11-10 094317" src="https://user-images.githubusercontent.com/60787548/203560310-4d54a251-eb56-4a9b-b7ba-3ff5e6ddc0c1.png">
+(this needs a little more work)
 
 ## 3: Agile method
 ```
@@ -129,12 +81,8 @@ You are aware of the most popular agile methods and their underlying agile princ
 Your choice of a method is motivated and based on well-defined selection criteria and context analyses.
 ```
 
-
-</details>
-</br>
 <details> 
  <summary>What are the basic Agile principles?</summary></br>
-</br>
 An Agile method consists of 12 basic principles, which are the following:</br></br>
 <ol type="1">
   <li>Satisfying the customer</li>
@@ -231,6 +179,53 @@ Design and implement:
 You design a release process and implement a continuous integration and deployment solution 
 (using e.g. Gitlab CI and Docker).
 ```
+<details> 
+ <summary>Research question: How does using docker affect my performance</summary>
+ </br>
+ For my project I want use Docker to run my project on. When looking into alternative options I thought kept thinking if using docker could have a negative of positive impact on the performance. But before I can make a conclusion I need to first understand what Docker even is and why people use it.
+</br>
+<h3> What is Docker </h3>
+<h6>DOT: literature study</h6>
+<hr>
+<p>Here is a quote from dockers own website:</p>
+<blockquote cite="https://docs.docker.com/get-started/overview/">
+"Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production."
+</blockquote>
+
+Docker claims to be lighter weight than VM's because they don't have to carry the whole OS, so it could run more copies of the application on the same hardware in comparison to a virtual machine. 
+
+Docker uses containers, each container contains a packaged version of the application with all the necessary parts to operate. That way Docker makes your application portable.
+
+Docker was created to work on Linux but has extended support for non-Linux operating systems like Windows and Apple OS.
+
+![image](https://user-images.githubusercontent.com/60787548/203562860-59f3eaf0-53ad-4c7a-a7d8-6bcf2412ee30.png)
+Source: [Ameya Shanbhag](https://avs431.medium.com/explain-it-to-me-like-i-am-a-5-year-old-what-are-docker-image-and-containers-b18db4863cb1)
+
+
+
+<a href="https://www.techtarget.com/searchitoperations/definition/Docker">How Docker works</a></br>
+<a href="https://docs.docker.com/get-started/overview/">Docker overview</a></br>
+<a href="https://www.ibm.com/nl-en/cloud/learn/docker"> What is Docker?</a></br>
+
+<h3> Why do people use Docker </h3>
+<h6>DOT: Community research</h6>
+<hr>
+
+<h3> Which Docker alternatives are there <h3>
+<h6>DOT: literature research?</h6>
+<hr>
+
+<h3> Docker vs alternative option <h3>
+<h6>DOT: System test?</h6>
+<hr>
+
+<h3>Conclusion<h3>
+<hr>
+
+ </details>
+
+
+
 
 ## 5: Cultural differences and ethics
 ```
@@ -291,6 +286,64 @@ You apply user acceptance testing and stakeholder feedback to validate the quali
 You evaluate the quality of the design (e.g., by testing or prototyping)
 taking into account the formulated quality properties like security and performance.
 ```
+<details>
+  <summary>What are some practices in creating user interfaces? </summary>
+</br>
+
+Before I can even decide how I'm going to implement "the best practices" I need to research and understand which user interface design basics are used when making a front-end.
+
+When researching I learned that's important to know what the goal of the user is before even designing anything. After establishing the goal it's important to keep the design simple, it's important for the user to understand the purpose of the app. Little animations in the buttons the keep the user engaged and give feedback is also important. 
+
+So to sum it up:
++ Know the goal of the user
++ Create an easy-to-navigate interface / simple design 
++ Changes in state and helpful information by animations
+
+There are a lot more practices in creating a good UI design but in my case I will focus on those 3 points 
+
+[Best Practices for Designing an Interface](https://www.usability.gov/what-and-why/user-interface-design.html)</br>
+[The 4 Golden Rules of UI Design](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/)</br>
+[Design Consistency Guide UI and UX Best Practices](https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/#h-1-start-with-user-research)
+</br>
+
+ </details>
+ 
+ <details> 
+ <summary>Examples of other designs</summary>
+</br>
+When researching I though it would be smart to first examine how the streaming services show the user where they left of before even searching for designs from other people online. </br></br>
+
+Firsly I looked at Plex:
+![image](https://user-images.githubusercontent.com/60787548/195307580-87997667-faa1-4dfb-b0b8-3fc82df30712.png)</br>
+Plex uses the poster on the right with the title and a little description on the left. They show the rating and three simple buttons which get a different color when hovering over it to indicate that it will perform an action when clicking on it.</br>
+
+Secondly I looked at Netflix:</br>
+![image](https://user-images.githubusercontent.com/60787548/195308852-0e8bf976-9e67-4d30-9b6d-9814f458ca47.png)</br>
+As you can see, they have almost the same design as Plex with the image on the right and a title and description on the left. With two simple buttons which change color when hovering over it to indicate it's a button with an action. </br>
+
+To make it easier for user to understand my app I will also base my design on these two designs. </br> </br>
+Now let's look at some different designs created by designers online. </br>
+![image](https://user-images.githubusercontent.com/60787548/195311419-54d2c048-15e8-471e-9b68-e612d12b7909.png)
+If we look at this design created by [CMARIX TechnoLabs](https://www.cmarix.com/) we can also see the title on the left but this design has the image more centered, and again the simple buttons.
+
+![image](https://user-images.githubusercontent.com/60787548/195312662-104bfd17-f3c9-43fc-9c51-a3ffefb70660.png)
+Created by: [aPurple](https://www.apurple.co/)
+
+</details>
+
+ <details> 
+ <summary>My design</summary>
+</br>
+Based on the 3 practices and the other streaming service examples I can up with the following design:</br></br>
+I have decided to put the image right and the title and description left, for each different streaming service it will show where they left off (if the login and api data is available)</br>
+<a href='https://postimg.cc/xXyWymkg' target='_blank'><img src='https://i.postimg.cc/7Zpw4Mqv/Hub-Design-1.png' border='0' alt='Hub-Design-1'/></a>
+</br>
+I also have an alternative design where the colors of the background are dynamic and change with the colors of the poster</br>
+<a href='https://postimg.cc/rz13LWjT' target='_blank'><img src='https://i.postimg.cc/jqmbP4JD/Hub-2.png' border='0' alt='Hub-2'/></a>
+</details>
+
+ 
+ 
 ## 7: Business processes
 ```
 Simple: 
