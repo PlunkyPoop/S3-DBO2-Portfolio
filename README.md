@@ -373,3 +373,8 @@ You are able to track your work progress and communicate your progress with the 
 You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and
 design (architectural) solutions. You choose and substantiate solutions for a given problem.
 ```
+
+
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/60787548/203740409-69fbedb4-76e1-4e3c-a30f-6e6e70734e83.png">
+<img width="869" alt="image" src="https://user-images.githubusercontent.com/60787548/203740089-3c97157e-994f-444d-9731-531b8f6a423c.png">
+
