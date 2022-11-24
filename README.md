@@ -143,10 +143,8 @@ From these 5 Agile methods, Crystal can be seen as the most flexible methods. It
 <a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban">What Is Kanban?</a></br>
 <a href="https://en.wikipedia.org/wiki/Extreme_programming">Extreme programming</a></br>
 <a href="https://www.productplan.com/glossary/crystal-agile-framework/">Crystal Agile Framework</a></br>
-
-
-
 </details>
+
 <details> 
  <summary>What Agile method will I use and why?</summary></br>
  I first looked at Scrum, the way I see it it would work best in a groupsproject instead of an indivual project. So I have decided to work in the Crystal method cause that seemed like the most flexible option because I'm still figuring out what functionalities my project will consists of and because it's a short-term project. 
@@ -205,7 +203,7 @@ Source: [Ameya Shanbhag](https://avs431.medium.com/explain-it-to-me-like-i-am-a-
 
 <a href="https://www.techtarget.com/searchitoperations/definition/Docker">How Docker works</a></br>
 <a href="https://docs.docker.com/get-started/overview/">Docker overview</a></br>
-<a href="https://www.ibm.com/nl-en/cloud/learn/docker"> What is Docker?</a></br>
+<a href="https://www.ibm.com/nl-en/cloud/learn/docker">What is Docker?</a></br>
 
 <h3> Why do people use Docker </h3>
 <h6>DOT: Community research</h6>
@@ -344,7 +342,15 @@ I have decided to put the image right and the title and description left, for ea
 I also have an alternative design where the colors of the background are dynamic and change with the colors of the poster</br>
 <a href='https://postimg.cc/rz13LWjT' target='_blank'><img src='https://i.postimg.cc/jqmbP4JD/Hub-2.png' border='0' alt='Hub-2'/></a>
 </details>
+ <details> 
+  <summary>Design user test</summary>
+  </br>
+To test if the design idea is clear and users understand the purpose of it I created a <a href='https://app.ballparkhq.com/record/dd590819-27fc-4fbe-bca6-5b9b8485ec3f' target='_blank'>survey</a></br>
 
+<img width="841" alt="image" src="https://user-images.githubusercontent.com/60787548/203735589-ebb3f6a0-dd8f-4eee-afa3-57943bdd7161.png">
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/60787548/203735643-f5ea58bd-3df4-4281-a0e2-98d411f2e0b1.png">
+
+</details>
  
  
 ## 7: Business processes
