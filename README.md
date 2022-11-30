@@ -254,9 +254,9 @@ There are a few different cultural differences according to <a href="https://www
 </br>
 
  <h2>Power distance</h2>
- Here is a quote from <a href="https://www.hofstede-insights.com/country-comparison/the-usa/#:~:text=Power%20distance%20is%20defined%20as,much%20as%20by%20the%20leaders">Hofstede Insight</a> 
+ Here is a quote from <a href="https://www.hofstede-insights.com/country-comparison/the-usa/#:~:text=Power%20distance%20is%20defined%20as,much%20as%20by%20the%20leaders">Hofstede Insight</a> </br>
  
- <blockquote cite="[https://docs.docker.com/get-started/overview/](https://www.hofstede-insights.com/models/national-culture/](https://www.hofstede-insights.com/country-comparison/the-usa/#:~:text=Power%20distance%20is%20defined%20as,much%20as%20by%20the%20leaders.)">
+ <blockquote cite="https://www.hofstede-insights.com/country-comparison/the-usa/#:~:text=Power%20distance%20is%20defined%20as,much%20as%20by%20the%20leaders.">
 "Power distance is defined as the extent to which the less powerful members of institutions and organisations within a country expect and accept that power is distributed unequally. It has to do with the fact that a society’s inequality is endorsed by the followers as much as by the leaders."
 </blockquote>
 For example, in a high power distance organization you have desicion making is a result of a rigid hierachy, leaders have more power than the general workforce. People in power have special treatment and employeed depend on those in power for their work assignments.
@@ -270,7 +270,113 @@ If we look at the power distance in the Netherlands we have a score of "38", if 
 <img width="591" alt="image" src="https://user-images.githubusercontent.com/60787548/204772235-4b69d68e-ea4e-4b3b-a33a-3f36c4b7e0c6.png"></br>
 
 <a href="https://www.hofstede-insights.com/country-comparison/austria,china,malaysia,the-netherlands/">Source</a>
-
+</br>
+<h2>Uncertainty Avoidance</h2>
+<blockquote cite="https://www.sciencedirect.com/topics/computer-science/uncertainty-avoidance#:~:text=Uncertainty%20avoidance%2C%20or%20the%20degree,relatively%20flexible%20to%20extremely%20rigid).">
+"Uncertainty avoidance, or the degree to which people in a country prefer structured over unstructured situations and their tolerance for uncertainty, ambiguity, and diversity of approach (from relatively flexible to extremely rigid)."
+</blockquote>
+<a href="https://www.hofstede-insights.com/country-comparison/the-usa/#:~:text=Power%20distance%20is%20defined%20as,much%20as%20by%20the%20leaders">Hofstede Insight</a></br></br>
+</br>
+There are a few difference between high uncertainty avoidance and low uncertainity avoidance:
+<h3>Social normal</h3>
+<table>
+ <tr>
+    <th>High Uncertainty Avoidance</th>
+    <th>Low Uncertainty Avoidance</th>
+  </tr>
+  <tr>
+    <td>Preserve traditional social institutions and practice</td>
+    <td>Openness to change, innovation</td>
+  </tr>
+   <tr>
+    <td>Relating to or exhibiting fear or hatred of foreigners or strangers</td>
+    <td>Tolerance of diversity</td>
+  </tr>
+  <tr>
+    <td>Express emotions</td>
+    <td>Supress emotions</td>
+  </tr>
+</table>
+</br>
+<h3>Politics / legal system</h3>
+<table>
+ <tr>
+    <th>High Uncertainty Avoidance</th>
+    <th>Low Uncertainty Avoidance</th>
+  </tr>
+  <tr>
+    <td>Weak interest in politics</td>
+    <td>High interest in politics</td>
+  </tr>
+   <tr>
+    <td>Citizen protest repressed</td>
+    <td>Citizen protest accepted </td>
+  </tr>
+  <tr>
+    <td>More and specific laws and regulations</td>
+    <td>Fewer and general laws and regulations</td>
+  </tr>
+</table>
+</br>
+<h3>Religion</h3>
+<table>
+  <tr>
+     <th>High Uncertainty Avoidance</th>
+    <th>Low Uncertainty Avoidance</th>
+  </tr>
+ <tr>
+    <td>Catholic, Islam, Judaism, Shintoism</td>
+    <td>Protestant, Buddhism, Taoism, Hinduism</td>
+  </tr>
+  <tr>
+    <td>Aggressive core believers</td>
+    <td>Little persecution for beliefs</td>
+  </tr>
+   <tr>
+    <td>Ritualized / ceremonial</td>
+    <td>Avoid ritualization and ceremony </td>
+  </tr>
+</table>
+</br>
+<h3>School</h3>
+<table>
+  <tr>
+     <th>High Uncertainty Avoidance</th>
+    <th>Low Uncertainty Avoidance</th>
+  </tr>
+ <tr>
+    <td>Teachers have all the answers</td>
+    <td>Teachers may say "I don't know"</td>
+  </tr>
+  <tr>
+    <td>Structured learning</td>
+    <td>Open-ended learning</td>
+  </tr>
+</table>
+</br>
+<h3>Family</h3>
+<table>
+  <tr>
+     <th>High Uncertainty Avoidance</th>
+    <th>Low Uncertainty Avoidance</th>
+  </tr>
+ <tr>
+    <td>Tradional gender roles</td>
+    <td>Fewer gender roles</td>
+  </tr>
+  <tr>
+    <td>Children taught the world is full of enemies</td>
+    <td>Children taught the world is kind</td>
+  </tr>
+</table>
+</br></br>
+If we go back to the <a href="https://clearlycultural.com/geert-hofstede-cultural-dimensions/uncertainty-avoidance-index/">index</a> to compare different countries we will see that the Netherlands around the middle. With the highest uncertainty avoidance Greece and the lowest Singapore.</br></br>
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/60787548/204782060-1b7a9749-1163-486b-ac86-8a7734b3c665.png">
+</br>
+According to the <a href="https://www.hofstede-insights.com/country-comparison/the-netherlands/">Hofstede Insight</a>:</br>
+<blockquote cite="https://www.hofstede-insights.com/country-comparison/the-netherlands/">
+"The Netherlands scores 53 on this dimension and thus exhibits a slight preference for avoiding uncertainty. Countries exhibiting high Uncertainty Avoidance maintain rigid codes of belief and behaviour and are intolerant of unorthodox behaviour and ideas. In these cultures there is an emotional need for rules (even if the rules never seem to work) time is money, people have an inner urge to be busy and work hard, precision and punctuality are the norm, innovation may be resisted, security is an important element in individual motivation."
+</blockquote>
 
 </details>
 
