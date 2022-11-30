@@ -238,17 +238,39 @@ from different cultures; Address one of the standard Programming Ethical Guideli
 ```
 </br>
 <details> 
- <summary>Which cultural differences are there in the programming?</summary>
+ <summary>Which cultural differences are there?</summary>
 </br>
-While researching for some cultural differences I didn't find much, when reading a few post from developers working abroad or with different international teams they said that for the most part there are no differences only a language barrier and communication problems.
-</br>
-</br>
-
-
- 
  
 
+There are a few different cultural differences according to <a href="https://www.hofstede-insights.com/models/national-culture/">the Hofstede's Cultural Dimensions</a></br>
+<ul>
+ <li>Power Distance</li>
+ <li>Uncertainty Avoidance</li>
+ <li>Indulgence / Restraint</li>
+ <li>Individualism / Collectivism</li>
+ <li>Masculinity / Femininity</li>
+ <li>Long-Term Orientation</li>
+</ul>
 </br>
+
+ <h2>Power distance</h2>
+ Here is a quote from <a href="https://www.hofstede-insights.com/country-comparison/the-usa/#:~:text=Power%20distance%20is%20defined%20as,much%20as%20by%20the%20leaders">Hofstede Insight</a> 
+ 
+ <blockquote cite="[https://docs.docker.com/get-started/overview/](https://www.hofstede-insights.com/models/national-culture/](https://www.hofstede-insights.com/country-comparison/the-usa/#:~:text=Power%20distance%20is%20defined%20as,much%20as%20by%20the%20leaders.)">
+"Power distance is defined as the extent to which the less powerful members of institutions and organisations within a country expect and accept that power is distributed unequally. It has to do with the fact that a society’s inequality is endorsed by the followers as much as by the leaders."
+</blockquote>
+For example, in a high power distance organization you have desicion making is a result of a rigid hierachy, leaders have more power than the general workforce. People in power have special treatment and employeed depend on those in power for their work assignments.
+</br>
+</br>
+When looking at lower power distance organizations we see that the organizational structure is flat and status isn't as important as in high power distance organizations. Employees have more independce and managers have an "open-door" policy where employees can easily acces leadership when necessary.
+</br></br>
+If we look at the power distance in the Netherlands we have a score of "38", if we compare that too the countries seen as having a high power distance (like Malaysia and China) and a country that has a lower power distance (like Austria) we will see that the Netherlands is just below the middle.
+<a href="https://clearlycultural.com/geert-hofstede-cultural-dimensions/power-distance-index/">(Source for countries)</a>
+</br></br>
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/60787548/204772235-4b69d68e-ea4e-4b3b-a33a-3f36c4b7e0c6.png"></br>
+
+<a href="https://www.hofstede-insights.com/country-comparison/austria,china,malaysia,the-netherlands/">Source</a>
+
 
 </details>
 
