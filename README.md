@@ -415,7 +415,110 @@ Netherlands is in the top 5 of the world for the most individualism culture, wit
 "The Netherlands, with the very high score of 80 is an Individualist society. This means there is a high preference for a loosely-knit social framework in which individuals are expected to take care of themselves and their immediate families only. In Individualist societies offence causes guilt and a loss of self-esteem, the employer/employee relationship is a contract based on mutual advantage, hiring and promotion decisions are supposed to be based on merit only, management is the management of individuals."
 </blockquote><a href="https://www.hofstede-insights.com/country-comparison/the-netherlands/)">Source</a></br>
 
+<h2>Masculinity / Femininity</h2>
+<blockquote cite="https://www.andrews.edu/~tidwell/bsad560/HofstedeMasculinity.html">
+"Masculinity is seen to be the trait which emphasizes ambition, acquisition of wealth, and differentiated gender roles.  Femininity is seen to be the trait which stress caring and nurturing behaviors, sexuality equality, environmental awareness, and more fluid gender roles."
+</blockquote>
+<a href="https://www.andrews.edu/~tidwell/bsad560/HofstedeMasculinity.html.">Source</a>
+</br>
+There are a few differences between Masculinity and Femininity, here are they summed up:</br>
+<h3>Social Norms</h3>
+<table>
+  <tr>
+     <th>High Masculinity</th>
+    <th>Low Masculininity (Femininity)</th>
+  </tr>
+ <tr>
+    <td>Ego oriented</td>
+    <td>Relationship oriented</td>
+  </tr>
+  <tr>
+    <td>Money and things are important</td>
+    <td>Quality of life and people are important</td>
+  </tr>
+ <tr>
+    <td>Live in order to work</td>
+    <td>Work in order to live</td>
+  </tr>
+</table>
+</br>
+<h3>Politics and economics</h3>
+<table>
+  <tr>
+     <th>High Masculinity</th>
+    <th>Low Masculininity (Femininity)</th>
+  </tr>
+ <tr>
+    <td>Economic growth is high priority</td>
+    <td>Envirioment protection is high priority</td>
+  </tr>
+  <tr>
+    <td>Conflict solved through force</td>
+    <td>Conflict solved through negotiation</td>
+  </tr>
+</table>
+</br>
+<h3>Religion</h3>
+<table>
+  <tr>
+     <th>High Masculinity</th>
+    <th>Low Masculininity (Femininity)</th>
+  </tr>
+ <tr>
+    <td>Most important in life</td>
+    <td>Less important in life</td>
+  </tr>
+  <tr>
+    <td>Only men can be priests</td>
+    <td>Both men and women as priests</td>
+  </tr>
+</table>
 
+</br>
+<h3>Work</h3>
+<table>
+  <tr>
+     <th>High Masculinity</th>
+    <th>Low Masculininity (Femininity)</th>
+  </tr>
+ <tr>
+    <td>Larger gender wage gap</td>
+    <td>Smaller wage gap</td>
+  </tr>
+  <tr>
+    <td>Fewer woman in management</td>
+    <td>More woman in management</td>
+  </tr>
+   <tr>
+    <td>Preference for higher pay</td>
+    <td>Preference for fewer working hours</td>
+  </tr>
+</table>
+
+</br>
+<h3>Family and school</h3>
+<table>
+  <tr>
+     <th>High Masculinity</th>
+    <th>Low Masculininity (Femininity)</th>
+  </tr>
+ <tr>
+    <td>Traditional family structure</td>
+    <td>Flexible family structure</td>
+  </tr>
+  <tr>
+    <td>girls cry, bots don't, boys fight, girl's don't</td>
+    <td>Both boys and girls cry; neither fight</td>
+  </tr>
+   <tr>
+    <td>Failing is a disaster</td>
+    <td>Failing is a minor accident</td>
+  </tr>
+</table>
+</br>
+When looking at the Netherlands we score a "14", which means we score in the low masculinity (also known as femininity) category. When looking at the <a href="http://clearlycultural.com/geert-hofstede-cultural-dimensions/masculinity/">index</a> we see that a few high scoring countries are Japan, Hungary and Austria. With a few of the lowest being Sweden, Norway and the Netherlands.</br>
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/60787548/204794021-1d6c46a2-51f1-4b18-9754-b69becc1d886.png"></br>
+</br>
 
 
 </details>
