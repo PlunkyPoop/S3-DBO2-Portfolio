@@ -397,8 +397,25 @@ The Netherlands is pretty high, which means we are more indulgent.
 <a href="https://www.hofstede-insights.com/country-comparison/the-netherlands/">Hofstede Insight</a>
 </br>
 
+<h2> Individualism / Collectivism</h2>
 
- 
+<blockquote cite="https://www.verywellmind.com/what-are-collectivistic-cultures-2794962#:~:text=Collectivism%20stresses%20the%20importance%20of,are%20promoted%20in%20individualistic%20cultures.">
+"Collectivism stresses the importance of the community, while individualism is focused on the rights and concerns of each person. Where unity and selflessness or altruism are valued traits in collectivist cultures, independence and personal identity are promoted in individualistic cultures.
+Collectivism stresses the importance of the community, while individualism is focused on the rights and concerns of each person. Where unity and selflessness or altruism are valued traits in collectivist cultures, independence and personal identity are promoted in individualistic cultures"
+</blockquote></br>
+<a href="https://www.verywellmind.com/what-are-collectivistic-cultures-2794962#:~:text=Collectivism%20stresses%20the%20importance%20of,are%20promoted%20in%20individualistic%20cultures.">Source</a>
+</br>
+
+For example, workers that live in a collectivism culture strive to sacrifice their own happiness for the greater good of the group, unlike people who live in a individualism culture, they feel like their own well-being and goals carry greater weight. </br>
+
+When it comes to the Netherlands we score pretty high with a "80", which means we like in a pretty individualism culture. This honestly doesn't come as a shock, we tend to do things on our own and on our own terms. </br>
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/60787548/204789805-b6e5f64c-a257-4cf0-a159-57e498713415.png"></br>
+Netherlands is in the top 5 of the world for the most individualism culture, with UK, Australia and the US just above us. </br>
+<blockquote cite="https://www.hofstede-insights.com/country-comparison/the-netherlands/)">
+"The Netherlands, with the very high score of 80 is an Individualist society. This means there is a high preference for a loosely-knit social framework in which individuals are expected to take care of themselves and their immediate families only. In Individualist societies offence causes guilt and a loss of self-esteem, the employer/employee relationship is a contract based on mutual advantage, hiring and promotion decisions are supposed to be based on merit only, management is the management of individuals."
+</blockquote><a href="https://www.hofstede-insights.com/country-comparison/the-netherlands/)">Source</a></br>
+
+
 
 
 </details>
