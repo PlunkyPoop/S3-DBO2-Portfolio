@@ -521,6 +521,19 @@ When looking at the Netherlands we score a "14", which means we score in the low
 </br>
 
 
+<h2>Long-Term Orientation</h2>
+<blockquote cite="https://www.cqfluency.com/cqpedia/long-term-orientation-vs-short-term-orientation-lto/#:~:text=Long%2Dterm%20orientation%20focuses%20on,persistence%2C%20perseverance%2C%20and%20adaptability.">
+"Long-term orientation focuses on the future. Long-term oriented individuals may put off short-term affairs in preparation for the future. Long-term oriented cultures place emphasis and value on persistence, perseverance, and adaptability."
+</blockquote>
+<a href="https://www.cqfluency.com/cqpedia/long-term-orientation-vs-short-term-orientation-lto/#:~:text=Long%2Dterm%20orientation%20focuses%20on,persistence%2C%20perseverance%2C%20and%20adaptability.">Source</a>
+</br>
+Long term cultures tend to be more collective, they are more likely to think in "we" rather then "I", a few cultures that have a long term culture are countries like China, Japan and South Korea.</br></br>
+Netherlands scores a '67', which means it has a pragmatic nature. In pragmatic societies people believe the truth depends on the situation, context and time. But have the ability to easily adapts to change conditions.</br></br>
+Compare that to Ireland which scores a '24', they have a strong concern with establishing the truth. They show great respect for traditions and focus on achieving quick results. </br>
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/60787548/204796519-9d3faf81-4889-4183-867e-4a07a3067ab9.png"></br>
+
+
+
 </details>
 
 <details> 
