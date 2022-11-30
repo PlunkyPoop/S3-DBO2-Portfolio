@@ -376,7 +376,30 @@ If we go back to the <a href="https://clearlycultural.com/geert-hofstede-cultura
 According to the <a href="https://www.hofstede-insights.com/country-comparison/the-netherlands/">Hofstede Insight</a>:</br>
 <blockquote cite="https://www.hofstede-insights.com/country-comparison/the-netherlands/">
 "The Netherlands scores 53 on this dimension and thus exhibits a slight preference for avoiding uncertainty. Countries exhibiting high Uncertainty Avoidance maintain rigid codes of belief and behaviour and are intolerant of unorthodox behaviour and ideas. In these cultures there is an emotional need for rules (even if the rules never seem to work) time is money, people have an inner urge to be busy and work hard, precision and punctuality are the norm, innovation may be resisted, security is an important element in individual motivation."
-</blockquote>
+</blockquote></br>
+
+<h2>Indulgence / Restraint</h2>
+<blockquote cite="https://www.jmu.edu/global/isss/resources/global-campus-toolkit/files/hofstede-indulgence.pdf">
+"An indulgent society is one
+which values the satisfaction of human needs and desires; a restrained society sees the value in curbing
+ones' desires and withholding pleasures to align more with societal norms. "Indulgent cultures will tend
+to focus more on individual happiness and well-being, leisure time is more important, and there is
+greater freedom and personal control. This is in contrast with restrained cultures where positive
+emotions are less freely expressed and happiness, freedom, and leisure are not given the same
+importance"
+</blockquote></br>
+For example, China is a restrained society, according to Hofstede, the low score in Indulgance shows "cynicism and pessimism".
+The Netherlands is pretty high, which means we are more indulgent.
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/60787548/204786813-d224407f-3267-4836-a817-b4a8fb3b6493.png">
+<blockquote cite="https://www.hofstede-insights.com/country-comparison/the-netherlands/">
+"People in societies classified by a high score in Indulgence generally exhibit a willingness to realise their impulses and desires with regard to enjoying life and having fun. They possess a positive attitude and have a tendency towards optimism. In addition, they place a higher degree of importance on leisure time, act as they please and spend money as they wish."
+</blockquote></br>
+<a href="https://www.hofstede-insights.com/country-comparison/the-netherlands/">Hofstede Insight</a>
+</br>
+
+
+ 
+
 
 </details>
 
