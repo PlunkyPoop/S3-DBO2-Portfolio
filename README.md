@@ -26,7 +26,7 @@ You apply best practices when creating user interfaces and basic user experience
 Full-stack: 
 You design and build a full stack application using a commonly accepted front end Javascript framework and back end
 application implementing relevant communication protocols, persistence of data by usage of ORM and addressing asynchronous 
-communication issues.
+communication issues. 
 ```
 
 
@@ -71,7 +71,7 @@ performance aspects, as well as applying static code analysis and code reviews.
 ```
 <br>
 I have installed PVS studio to check my software quality and it succeeded without fails
-<img width="321" alt="Schermafbeelding 2022-11-10 094317" src="https://user-images.githubusercontent.com/60787548/203560310-4d54a251-eb56-4a9b-b7ba-3ff5e6ddc0c1.png">
+<img width="322" alt="Schermafbeelding 2022-11-10 094317" src="https://user-images.githubusercontent.com/60787548/203560310-4d54a251-eb56-4a9b-b7ba-3ff5e6ddc0c1.png">
 (this needs a little more work)
 
 ## 3: Agile method
