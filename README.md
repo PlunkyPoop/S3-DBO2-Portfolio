@@ -103,6 +103,15 @@ My code clearly needs some working on. </br>
 
 <details> 
  <summary>What are the problems and how would you fix them?</summary></br>
+ 
+ <h2>Code smells</h2>
+ When looking at my code smells I saw mostly things like: "Remove this comment", and a few issues in a class that I didn't even use. So those were easily removed. There are some issues which were harder to fix. 
+ </br> I got this error:</br>
+ <img width="480" alt="image" src="https://user-images.githubusercontent.com/60787548/206417570-641a3c97-9b00-465e-bb94-0317d6805686.png">
+ So in my project I have a class with public properties.
+ </br><img width="326" alt="image" src="https://user-images.githubusercontent.com/60787548/206418174-1e2c838d-864a-410a-9a18-7bd30823415c.png">
+
+
  </details>
 
 
