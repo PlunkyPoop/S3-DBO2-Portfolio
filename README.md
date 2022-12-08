@@ -69,10 +69,44 @@ Tooling and methodology:
 Carry out, monitor and report on unit integration, regression and system tests, with attention for security and
 performance aspects, as well as applying static code analysis and code reviews.
 ```
-<br>
-I have installed PVS studio to check my software quality and it succeeded without fails
-<img width="322" alt="Schermafbeelding 2022-11-10 094317" src="https://user-images.githubusercontent.com/60787548/203560310-4d54a251-eb56-4a9b-b7ba-3ff5e6ddc0c1.png">
-(this needs a little more work)
+<h3>SonarQube</h3>
+First I started of by installing <a href="https://www.sonarqube.org/downloads/">SonarQube</a> locally , this however did not work for my system because when trying to opening it it just crashed.</br></br>
+
+So my second attempt was by trying to run it in a Docker container. I followed the instructions on the website. </br> Opened a port and I was ready to go, atleast I thought...</br></br>
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/60787548/206403511-1ef089c3-5466-4a30-9ebf-7304e360e781.png"></br>
+Inside SonarQube, I choose the "manually" option </br>
+<img width="653" alt="Schermafbeelding 2022-12-01 100351" src="https://user-images.githubusercontent.com/60787548/206408101-d7bdea7f-f04e-41fe-a77b-5f0f16de3fe3.png"></br></br>
+And chose to set it up as github actions for the continuous integrations. 
+<img width="931" alt="Schermafbeelding 2022-12-01 100457" src="https://user-images.githubusercontent.com/60787548/206408821-861a4db6-7b13-4745-b84d-524ee74ec3ee.png">
+</br></br>
+
+
+After that it was time to setup my secrets in Github.</br>
+<img width="623" alt="Schermafbeelding 2022-12-01 102031" src="https://user-images.githubusercontent.com/60787548/206406429-3f1c506b-2680-4778-9e86-5bdce78852a1.png"></br>
+Build.yaml was all setup and ready to go, So I made the commit, and...</br>
+<img width="986" alt="Schermafbeelding 2022-12-01 104715" src="https://user-images.githubusercontent.com/60787548/206406731-05addc8f-08c5-44ce-84c0-f8648332f252.png">
+</br>
+The first error code. After some searching around on the internet I figured out that my maven was not setup correctly. </br>
+<img width="669" alt="Schermafbeelding 2022-12-01 111610" src="https://user-images.githubusercontent.com/60787548/206407037-752993c8-f476-4348-a6a6-b220057909b2.png"></br></br>
+With new hope (after he succeeded where he first got the error message) I was ready for my code quality results. And when he was almost there...</br>
+<img width="974" alt="Schermafbeelding 2022-12-01 113352" src="https://user-images.githubusercontent.com/60787548/206407489-e32f4ef3-4013-4451-903d-9f93afabb5d0.png"></br>
+Another error message. When what the error message exactly said it hit me. This was never going to work. The Github actions was trying to push it to my local docker container, he was never going to find it. So it was time for another option.
+</br></br>
+<h3>SonarCloud</h3>
+Using SonarCloud was an easier experience. You login with your Github and choose a (public) repository. </br>
+<img width="899" alt="Schermafbeelding 2022-12-01 113543" src="https://user-images.githubusercontent.com/60787548/206411163-322cf473-c1fe-44f2-a1da-605f4b92581e.png"></br></br>
+After following the instructions given by SonarQube (adding tokens etc.) He just runs the code and it works. </br>
+<img width="1036" alt="Schermafbeelding 2022-12-01 114225" src="https://user-images.githubusercontent.com/60787548/206411631-e9c1d6a4-9838-4e19-bf9e-cfa6306fe094.png"></br>
+<img width="895" alt="Schermafbeelding 2022-12-01 113743" src="https://user-images.githubusercontent.com/60787548/206411863-533e9d40-aa45-4b71-8edd-cfe9ede39c0f.png">
+My code clearly needs some working on. </br>
+
+
+<details> 
+ <summary>What are the problems and how would you fix them?</summary></br>
+ </details>
+
+
+
 
 ## 3: Agile method
 ```
