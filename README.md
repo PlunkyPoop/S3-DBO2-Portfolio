@@ -592,6 +592,7 @@ and a lot of back and forth between different colleagues the problem still wasn'
 Netherlands we see that India has a higher masculinity score than
 the Netherlands, for indians to say "no sorry, I don't know the anwser" 
 is not an option, even when they don't know the answer they will still help you</p>
+<img width="536" alt="Schermafbeelding 2022-12-14 145935" src="https://user-images.githubusercontent.com/60787548/207626365-8466d8b4-7a4b-47c3-b5b0-0d9b27c58794.png">
 
 </details>
 
@@ -613,6 +614,7 @@ is not an option, even when they don't know the answer they will still help you<
 </ul>
  <a href="https://ethics.acm.org/code-of-ethics/software-engineering-code/">The Software Engineering Code of Ethics and Professional Practice</a>
 <p>If you look at the ethics of my group project you will get the following:</p>
+<img width="800" alt="Schermafbeelding 2022-12-14 145935" src="https://user-images.githubusercontent.com/60787548/207626234-e2695b2b-6055-413b-8cd1-dbafcecaed48.png">
 
 </details>
 
