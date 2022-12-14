@@ -741,6 +741,7 @@ made Ordinner with the following requirements:</p>
 <li>Show history from all actions</li>
 </ul>
 <p>All these requirements are made into issues that are divided into sprints on our Jira board. </p>
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/60787548/207646346-702e4d24-6af0-4192-a3f5-e8332d21b389.png">
 
 </details>
  <details> 
