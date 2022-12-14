@@ -29,12 +29,19 @@ application implementing relevant communication protocols, persistence of data b
 communication issues. 
 ```
 
+This semester I have two projects I've worked on, my individual project and my group project.
+<p>For my individual project I decided to make an app to access different streaming platforms with little information about
+the show or movie in the "resume watching". Named Hubflux</p>
 
+<p>For my group project we made a app called "Ordinner". The idea behind our project is an app that let's you make orders from your phone (think like the MacDonalds order system but on your phone) Or like a "Thuisbezorgd" but for inside the restaurant.</p>
 
  <details>
 <summary>What is the goal of the user? </summary>
-</br>
-In my case it's an easy way to access different streaming platforms with little information about the show or movie they are watching. It's important for the user to quickly and easily understand the purpose of the app in a single glance. 
+<p>In my case it's an easy way to access different streaming platforms with little information about the show or movie they are watching. 
+It's important for the user to quickly and easily understand the purpose of the app in a single glance. </p>
+
+<p>For my group project the goal is to make the order process faster and easier by using smartphones.</p>
+
 
 </details>
  
@@ -53,6 +60,7 @@ Because I already worked with C# for most of my previous year and previous schoo
 > "Angular.js is in its third year as the most dreaded. React.js completes its fifth year as most wanted." 
 
 So I decided to go with React.js as my front-end to get the basic project going but when I have time I'm going look into Angular to experience "the hatred" for myself.
+</br> For my group project I also chose React.js because our group would want to try another coding language.
 </details>
 
 <details>
