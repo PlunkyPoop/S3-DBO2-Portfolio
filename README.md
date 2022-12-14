@@ -260,18 +260,17 @@ Source: [Ameya Shanbhag](https://avs431.medium.com/explain-it-to-me-like-i-am-a-
 <h6>DOT: Community research</h6>
 <hr>
 
-<h3> Which Docker alternatives are there <h3>
+<h3> Which deploy alternatives are there? <h3>
 <h6>DOT: literature research?</h6>
 <hr>
 
-<h3> Docker vs alternative option <h3>
+<h3> Docker vs alternative options<h3>
 <h6>DOT: System test?</h6>
 <hr>
 
 <h3>Conclusion<h3>
 <hr>
-
- </details>
+</details>
 
 
 
@@ -698,6 +697,54 @@ To test if the design idea is clear and users understand the purpose of it I cre
 
 <img width="841" alt="image" src="https://user-images.githubusercontent.com/60787548/203735589-ebb3f6a0-dd8f-4eee-afa3-57943bdd7161.png">
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/60787548/203735643-f5ea58bd-3df4-4281-a0e2-98d411f2e0b1.png">
+
+</details>
+ <details> 
+  <summary>Individual project requirements</summary>
+<p>For my individual project I have a few requirements:</p>
+<ul>
+ <li>Add login feature</li>
+ <li>Show a notification when a new episode is available</li>
+ <li>Have a homepage to show the streaming services and watch progress</li>
+</ul>
+</details>
+ <details> 
+  <summary>Group project requirements</summary>
+<p>My group project is a big team consisting of 5 members, together we 
+made Ordinner with the following requirements:</p>
+<h3>Homepage/customer page</h3>
+<ul>
+ <li>Functionality to place order</li>
+ <li>Able to change languages</li>
+</ul>
+<h3>Bar</h3>
+<ul>
+ <li>Show orders (load immediately automatically)</li>
+ <li>Cash register system to pay for orders</li>
+ <li>Able to make order for table</li>
+ <li>Able to delete items from a order</li>
+ <li>Switch table number from orders</li>
+ <li>Able to change languages</li>
+</ul>
+<h3>Kitchen</h3>
+<ul>
+ <li>Show food from orders (load immediately automatically)</li>
+ <li>Able to change languages</li>
+ <li>Change order status</li>
+</ul>
+<h3>Management</h3>
+<ul>
+<li>Able to change languages</li>
+<li>Show all orders from specific period of time (with statistics?)</li>
+<li>Show stock</li>
+<li>Run accounting feature</li>
+<li>Show history from all actions</li>
+</ul>
+<p>All these requirements are made into issues that are divided into sprints on our Jira board. </p>
+
+</details>
+ <details> 
+  <summary>Project software designs</summary>
 
 </details>
  
