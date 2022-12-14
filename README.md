@@ -578,6 +578,22 @@ Compare that to Ireland which scores a '24', they have a strong concern with est
 
 
 </details>
+<details> 
+ <summary>Real life example with a cultural difference</summary>
+<p>When I needed help with my computer (at work) I was send to the help desk which
+consisted of a few indian it people. </p>
+
+<p>When I explained my problem they were convinced they could help me with my problem, 
+but after a two-hour teamviewer call, a lot of digging through my computer
+and a lot of back and forth between different colleagues the problem still wasn't fixed.
+</p>
+
+<p>When looking at the cultural differences between India and
+Netherlands we see that India has a higher masculinity score than
+the Netherlands, for indians to say "no sorry, I don't know the anwser" 
+is not an option, even when they don't know the answer they will still help you</p>
+
+</details>
 
 <details> 
  <summary>What cultural ethics are there in programming?</summary>
@@ -595,12 +611,8 @@ Compare that to Ireland which scores a '24', they have a strong concern with est
 <li>Colleagues - "Software engineers shall be fair to and supportive of their colleagues." </li>
 <li>Self - "Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession." </li>
 </ul>
- 
-  </br>
-  </br>
- <a href="https://ethics.acm.org/code-of-ethics/software-engineering-code/">The Software Engineering Code of Ethics and Professional Practice</a></br>
-
-</br>
+ <a href="https://ethics.acm.org/code-of-ethics/software-engineering-code/">The Software Engineering Code of Ethics and Professional Practice</a>
+<p>If you look at the ethics of my group project you will get the following:</p>
 
 </details>
 
