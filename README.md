@@ -761,6 +761,20 @@ Business processes during which the software that you are developing will be use
 support by fully or partially automating them). Or business processes needed for the success of your software development project 
 (e.g., product release, market release, financial assurance).
 ```
+<p>
+For our business process I decided to zoom into the "taking orders" within 
+our app, because our base design 
+(<a href='https://github.com/brittbrink/S3-DB02-Portfolio#leeruitkomst-7-business-processen'>made my Britt</a>) was very global, and our app is a little more complicated than was shown in the base design
+</p>
+
+<p>
+I made a design to show the process with and without our app.
+</p>
+
+<p>
+When looking at the two design, you will see that our app will replace a lot of the
+tasks that the bar personal would normally do. A lot of Bar personal won't really be needed when restaurants will use our app so I think a few people might lose their job.
+</p>
 
 ## 8: Professional
 ```
