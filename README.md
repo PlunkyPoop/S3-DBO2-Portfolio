@@ -770,7 +770,8 @@ our app, because our base design
 <p>
 I made a design to show the process with and without our app.
 </p>
-
+<img width="1644" alt="Swimming Lane detailed without app" src="https://user-images.githubusercontent.com/60787548/208436216-c97b3ab5-1638-413b-a0f4-3cbd71238d4f.png">
+<img width="1497" alt="Swimming Lane" src="https://user-images.githubusercontent.com/60787548/208436230-9cd402fc-d5a6-45bd-9e70-6072055f6a9c.png">
 <p>
 When looking at the two design, you will see that our app will replace a lot of the
 tasks that the bar personal would normally do. A lot of Bar personal won't really be needed when restaurants will use our app so I think a few people might lose their job.
