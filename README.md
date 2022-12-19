@@ -229,7 +229,7 @@ You design a release process and implement a continuous integration and deployme
 (using e.g. Gitlab CI and Docker).
 ```
 <details> 
- <summary>Research question: How does using docker affect my performance</summary>
+ <summary>Research question: How does using docker containers positivly impact deploying my application</summary>
  </br>
  For my project I want use Docker to run my project on. When looking into alternative options I thought kept thinking if using docker could have a negative of positive impact on the performance. But before I can make a conclusion I need to first understand what Docker even is and why people use it.
 </br>
@@ -741,13 +741,15 @@ made Ordinner with the following requirements:</p>
 <li>Show history from all actions</li>
 </ul>
 <p>All these requirements are made into issues that are divided into sprints on our Jira board. </p>
+<img width="1064" alt="image" src="https://user-images.githubusercontent.com/60787548/207646346-702e4d24-6af0-4192-a3f5-e8332d21b389.png">
 
 </details>
  <details> 
   <summary>Project software designs</summary>
-
+ <p>For my individual project I made a C2 model:</p>
+ <img width="700" alt="image" src="https://user-images.githubusercontent.com/60787548/207838290-3660a1f0-6e8e-464b-b1d0-ef1c7eefdfc3.png">
 </details>
- 
+
  
 ## 7: Business processes
 ```
