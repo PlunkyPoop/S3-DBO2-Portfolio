@@ -769,7 +769,7 @@ made Ordinner with the following requirements:</p>
 </details>
  <details> 
   <summary>Project software designs</summary>
- <p>For my individual project I made a C2 model:</p>
+ <p>For my individual project I made a Container Diagram:</p>
  <img width="700" alt="image" src="https://user-images.githubusercontent.com/60787548/207838290-3660a1f0-6e8e-464b-b1d0-ef1c7eefdfc3.png">
 </details>
 
