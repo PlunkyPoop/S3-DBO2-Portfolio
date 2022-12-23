@@ -33,9 +33,10 @@ This semester I have two projects I've worked on, my individual project and my g
 <p>For my individual project I decided to make an app to access different streaming platforms with little information about
 the show or movie in the "resume watching". Named Hubflux.
 </p>
+<p>
 <a href="https://github.com/PlunkyPoop/HubFlux-Backend">My backend project</a></br>
 <a href="https://github.com/PlunkyPoop/HubFlux-Frontend">
-My frontend Project</a>
+My frontend Project</a></p>
 
 
 <p>For my group project we made an app called "Ordinner". The idea behind our project is an app that let's you make orders from your phone (think like the MacDonalds order system but on your phone) Or like a "Thuisbezorgd" but for inside the restaurant.</p>
@@ -73,6 +74,23 @@ So I decided to go with React.js as my front-end to get the basic project going 
 I'm not going to lie, when looking into backend languages I have looked into a few but ended up choosing the same language as my group-project, which is: <b>Springboot</b>. I chose this to make my life a little easier and just to make sure I can use my knowledge in both projects.
 </details>
 
+<details>
+<summary>User story from start to finish</summary>
+<p>For my individual project I wanted to add a functionability to add your stream service credentials to see your personal watch progress.</p>
+<p>I started by setting up a user story inside Github (via issues) in both the front-end and the backend</p>
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/60787548/209310719-61cb029c-e910-4cb0-b65f-dafa681ad545.png">
+<p>And created for both the backend and the front-end a branch</p>
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/60787548/209311331-07ece5d4-9a52-4eb6-8cde-899fba743841.png">
+<p>I already have a online database (for using Docker) so I added a new table for my project</p>
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/60787548/209314326-962e7da0-9427-40e5-a27f-3272fbbf654f.png">
+<p>I also added my database in my backend</p>
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/60787548/209314728-517c7e0d-2122-4aac-81a2-5b2ee04e3daf.png">
+<p> ^ This is a very big security risk (See security research)</p>
+
+<p>For the front-end I created a new page where you will go when pressing the settings button</p>
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/60787548/209320740-86746887-cd45-4240-9c94-250ea7dae5d5.png">
+
+</details>
 
 
 ## 2: Software quality
