@@ -31,9 +31,14 @@ communication issues.
 
 This semester I have two projects I've worked on, my individual project and my group project.
 <p>For my individual project I decided to make an app to access different streaming platforms with little information about
-the show or movie in the "resume watching". Named Hubflux</p>
+the show or movie in the "resume watching". Named Hubflux.
+</p>
+<a href="https://github.com/PlunkyPoop/HubFlux-Backend">My backend project</a></br>
+<a href="https://github.com/PlunkyPoop/HubFlux-Frontend">
+My frontend Project</a>
 
-<p>For my group project we made a app called "Ordinner". The idea behind our project is an app that let's you make orders from your phone (think like the MacDonalds order system but on your phone) Or like a "Thuisbezorgd" but for inside the restaurant.</p>
+
+<p>For my group project we made an app called "Ordinner". The idea behind our project is an app that let's you make orders from your phone (think like the MacDonalds order system but on your phone) Or like a "Thuisbezorgd" but for inside the restaurant.</p>
 
  <details>
 <summary>What is the goal of the user? </summary>
@@ -47,8 +52,7 @@ It's important for the user to quickly and easily understand the purpose of the 
  
 
  <details>
-<summary>What front-end am I going to use in my project? </summary>
-</br>
+<summary>What front-end am I going to use in my project? </summary></br>
 When looking into front-end frameworks / technologies I was hesitating between 3 options:
 <ul>
 <li>C#</li>
@@ -82,7 +86,7 @@ First I started of by installing <a href="https://www.sonarqube.org/downloads/">
 
 So my second attempt was by trying to run it in a Docker container. I followed the instructions on the website. </br> Opened a port and I was ready to go, atleast I thought...</br></br>
 <img width="776" alt="image" src="https://user-images.githubusercontent.com/60787548/206403511-1ef089c3-5466-4a30-9ebf-7304e360e781.png"></br>
-Inside SonarQube, I choose the "manually" option </br>
+Inside SonarQube, I chose the "manually" option </br>
 <img width="653" alt="Schermafbeelding 2022-12-01 100351" src="https://user-images.githubusercontent.com/60787548/206408101-d7bdea7f-f04e-41fe-a77b-5f0f16de3fe3.png"></br></br>
 And chose to set it up as github actions for the continuous integrations. 
 <img width="931" alt="Schermafbeelding 2022-12-01 100457" src="https://user-images.githubusercontent.com/60787548/206408821-861a4db6-7b13-4745-b84d-524ee74ec3ee.png">
@@ -198,20 +202,14 @@ From these 5 Agile methods, Crystal can be seen as the most flexible methods. It
 
 <details> 
  <summary>What Agile method will I use and why?</summary></br>
- I first looked at Scrum, the way I see it it would work best in a groupsproject instead of an indivual project. So I have decided to work in the Crystal method cause that seemed like the most flexible option because I'm still figuring out what functionalities my project will consists of and because it's a short-term project. 
-</br>
+ I first looked at Scrum, the way I see it, it would work best in a groups project instead of an indivual project. So I have decided to work in the Crystal method cause that seemed like the most flexible option because I'm still figuring out what functionalities my project will consist of and because it's a short-term project.</br>
 For my group project we use the Scrum method. We set up a Jira board with all the issues (and child issues) and split these into sprints. 
 <a href='https://postimg.cc/NyZ4Rs7J' target='_blank'><img src='https://i.postimg.cc/XJYzSXZb/Schermafbeelding-2022-11-23-105130.png' border='0' alt='Schermafbeelding-2022-11-23-105130'/></a>
 
 <img width="667" alt="image" src="https://user-images.githubusercontent.com/60787548/203517227-d3c61986-2928-478d-833d-34a4c2679fd2.png">
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/60787548/203518142-789e6e5f-3f66-4446-9597-a34b5af2a66f.gif)
-
-
-</br>
-And we also use a time table to easily calculate how long we think we need to finish a issue:
-<img width="1217" alt="image" src="https://user-images.githubusercontent.com/60787548/203518435-c886ea2c-9523-427d-8396-0078b0c331e9.png">
-</br>
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/60787548/203518142-789e6e5f-3f66-4446-9597-a34b5af2a66f.gif"></br>
+And we also use a time table to easily calculate how long we think we need to finish an issue:
+<img width="1217" alt="image" src="https://user-images.githubusercontent.com/60787548/203518435-c886ea2c-9523-427d-8396-0078b0c331e9.png"></br>
 After we finish a sprint we reflect on it by using <a href="https://metroretro.io/">Metro retro</a></br>
 
 <img width="1215" alt="image" src="https://user-images.githubusercontent.com/60787548/203520259-8b7468e8-3f88-48eb-b158-14dea8c21b04.png">
@@ -231,8 +229,7 @@ You design a release process and implement a continuous integration and deployme
 <details> 
  <summary>Research question: How does using docker containers positivly impact deploying my application</summary>
  </br>
- For my project I want use Docker to run my project on. When looking into alternative options I thought kept thinking if using docker could have a negative of positive impact on the performance. But before I can make a conclusion I need to first understand what Docker even is and why people use it.
-</br>
+ For my project I want use Docker to run my project on. When looking into alternative options I thought kept thinking if using docker could have a negative of positive impact on the performance. But before I can make a conclusion I need to first understand what Docker even is and why people use it.</br>
 <h3> What is Docker </h3>
 <h6>DOT: literature study</h6>
 <hr>
@@ -259,6 +256,14 @@ Source: [Ameya Shanbhag](https://avs431.medium.com/explain-it-to-me-like-i-am-a-
 <h3> Why do people use Docker </h3>
 <h6>DOT: Community research</h6>
 <hr>
+<h5>Scalability & Flexibility</h5>
+<p>Docker is well known for their simple</p>
+<h5>Fast Deployment</h5>
+<p></p>
+<h5>Scalability & Flexibility</h5>
+<p></p>
+<h5>Platform-independent</h5>
+<p></p>
 
 <h3> Which deploy alternatives are there? <h3>
 <h6>DOT: literature research?</h6>
@@ -786,7 +791,12 @@ You actively ask and apply feedback from stakeholders and advise them on the mos
 design (architectural) solutions. You choose and substantiate solutions for a given problem.
 ```
 
-
-<img width="628" alt="image" src="https://user-images.githubusercontent.com/60787548/203740409-69fbedb4-76e1-4e3c-a30f-6e6e70734e83.png">
+<p>For our group project I was responsible (with Britt) for the comminication between our group and the stakeholders. That meant that we 
+had to write a lot of emails, like this one for example:</p>
 <img width="869" alt="image" src="https://user-images.githubusercontent.com/60787548/203740089-3c97157e-994f-444d-9731-531b8f6a423c.png">
+<p>To keep track of my progress I had a few progress/feedback conversations with my teachers.</p>
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/60787548/203740409-69fbedb4-76e1-4e3c-a30f-6e6e70734e83.png">
+<p>At our third spint review we had to give a presentation, but because our group wasn't that well prepared at the time I decided to lead the presentation</p>
+
+
 
