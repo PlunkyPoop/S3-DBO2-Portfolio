@@ -274,22 +274,39 @@ Source: [Ameya Shanbhag](https://avs431.medium.com/explain-it-to-me-like-i-am-a-
 <h3> Why do people use Docker </h3>
 <h6>DOT: Community research</h6>
 <hr>
+<p>
+Docker is well known in the IT space, from software development to running minecraft servers, a lot of people use it to do 
+different things with it, but why is Docker so loved? </p>
 <h5>Scalability & Flexibility</h5>
-<p>Docker is well known for their simple</p>
+<p>Docker uses containers which each contain their own set of configurations and dependencies, that way it's easier to run multiple instances of the same container at the same time. This means that it's simple to deploy multiple docker images on multiple servers. Changes within the project is also easy, you just change the thing you want to change, test it and deploy it. The developer can optimize and test the project without having any downtime. </p>
 <h5>Fast Deployment</h5>
-<p></p>
-<h5>Scalability & Flexibility</h5>
-<p></p>
-<h5>Platform-independent</h5>
-<p></p>
+<p>By using Docker you can save a lot of time, the deployment is very fast because the docker images
+are easy to handle. Docker is mostly used in a CI/CD workflow.</p>
+<h5>Platform-independent apps</h5>
+<p>When using Docker your apps will become OS independent. Which means you can run it on any platform 
+(Linux, macOS, Windows etc.) A lot of developers like that about Docker. </p>
+<h5>Less security issues</h5>
+<p>Docker containers are way more secure than any normal app, Why? A container cannot access data from 
+another container without having the proper authorization, it's even possible to add multiple security layers. </p>
+<a href="https://www.jobsity.com/blog/8-reasons-why-docker-matter-for-devs">Why Docker matters for devs</a></br>
+
 
 <h3> Which deploy alternatives are there? <h3>
 <h6>DOT: literature research?</h6>
 <hr>
+<p>Before Docker, people used other methods to deploy their application.</p>
 
-<h3> Docker vs alternative options<h3>
+<h4>Virtual machine</h4>
+<p>You can run a virtual machine and run the app inside it. I do think (because you have to run a whole instants
+of a Windows server inside it that it will not be very fast.</p>
+
+<h4>Filezilla (FTP)??? </h4>
+<p>Or you can also do it the very old way by just transfer the files to a server using FTP</p>
+
+<h3> Docker vs alternative option<h3>
 <h6>DOT: System test?</h6>
 <hr>
+<p>To see if Docker is really the easier option from the start to finish I will set up a Virtual Machine (running Windows server) and a Docker container and see if deploying it by Docker is a more positive experience.</p>
 
 <h3>Conclusion<h3>
 <hr>
