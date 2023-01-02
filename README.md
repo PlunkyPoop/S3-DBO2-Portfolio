@@ -120,10 +120,37 @@ I'm not going to lie, when looking into backend languages I have looked into a f
 
  </details>
  
- 
   <details>
   <summary>Examining the backend errors</summary>
+   <p>When looking at the backend you will see a few security vulnerabilities, when openings these you will see that it asks to make DTO's objects of it. That would be indeed the better options but for my project now I will not do this</p>
+   <img width="761" alt="image" src="https://user-images.githubusercontent.com/60787548/210229192-44f59e57-7ecf-4373-9881-d9d96cb8f17d.png">
+  <p>You will also see a few code smells which consists of remaining packages, but that won't really do or the whole project will crash. So I will ignore those</p>
+   <img width="884" alt="image" src="https://user-images.githubusercontent.com/60787548/210229371-6009e2e6-91c8-449a-a57f-c34a8bdea2a1.png">
+   <p>When uploading the new version you will get this:</p>
+   <img width="878" alt="image" src="https://user-images.githubusercontent.com/60787548/210230043-52dd07b9-80ab-41a4-80d2-9601ee24a3f7.png">
+   <p>So this also passes</p>
 </details>
+ <p>After passing the SonarCloud test I will write a few tests to check if it actually does what it needs to do. So I installed Cypress on my front-end</p>
+ <img width="722" alt="image" src="https://user-images.githubusercontent.com/60787548/210231063-c095f44f-46f9-428c-95cb-bffcb1c945ae.png">
+<img width="674" alt="image" src="https://user-images.githubusercontent.com/60787548/210231125-8be370d9-b64e-4d3f-9b6d-13adc969a4a0.png">
+ <p>I will set up a end-to-end test to test if the crud works</p>
+ <img width="647" alt="image" src="https://user-images.githubusercontent.com/60787548/210241614-3686deac-5a6e-4b28-b0ec-cab339105d54.png">
+ <p>So I created three scrips, to test if it can add something, edit something and delete something</p>
+ <img width="832" alt="image" src="https://user-images.githubusercontent.com/60787548/210241715-83c2c4da-532a-484d-8109-948b441bb269.png">
+<img width="869" alt="image" src="https://user-images.githubusercontent.com/60787548/210241751-69850179-c773-42ba-a906-3f43baa25ff0.png">
+<img width="845" alt="image" src="https://user-images.githubusercontent.com/60787548/210241788-04eb6a4a-99e1-4157-9e5f-771af9035874.png">
+ <p>Which will (if all goes well) all pass</p>
+ <p>Add:</p>
+ <img width="845" alt="image" src="https://user-images.githubusercontent.com/60787548/210242100-ab5a220f-0125-4778-b6a6-d4f816f4d8ad.gif">
+ 
+  <p>Edit:</p>
+ <img width="845" alt="image" src="https://user-images.githubusercontent.com/60787548/210242356-531b87b6-5cde-4a26-bae0-3d569a6f3c27.gif">
+
+  <p>Delete:</p>
+ <img width="845" alt="image" src="https://user-images.githubusercontent.com/60787548/210242543-733b2a55-771f-4a87-8b26-7799ef9da3ae.gif">
+
+ 
+ 
 </details>
 
 
