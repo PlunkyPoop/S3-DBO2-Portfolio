@@ -149,7 +149,12 @@ I'm not going to lie, when looking into backend languages I have looked into a f
   <p>Delete:</p>
  <img width="845" alt="image" src="https://user-images.githubusercontent.com/60787548/210242543-733b2a55-771f-4a87-8b26-7799ef9da3ae.gif">
 
- 
+ <p>All the tests passed on both local and in Cypress Cloud</p>
+ <img width="665" alt="image" src="https://user-images.githubusercontent.com/60787548/210244036-5518a576-4e94-4e53-9236-2f10d4809740.png">
+<img width="1010" alt="image" src="https://user-images.githubusercontent.com/60787548/210244073-c7282bdf-493d-47c5-90d6-85fa875c6bf4.png">
+<p> When running it on github actions they all fail</p>
+<img width="690" alt="image" src="https://user-images.githubusercontent.com/60787548/210246633-d0a78066-c953-431c-b30d-07a9cad67687.png">
+<p>This is not really shocking as it's trying to send the data to my local backend (which he will never find) So the next thing to do is to put my backend on a live envoirment, for with we will use docker (See Chapter CI/CD - Running Backend on Docker)</p>
  
 </details>
 
@@ -367,10 +372,17 @@ of a Windows server inside it that it will not be very fast.</p>
 <h3> Docker vs alternative option<h3>
 <h6>DOT: System test?</h6>
 <hr>
-<p>To see if Docker is really the easier option from the start to finish I will set up a Virtual Machine (running Windows server) and a Docker container and see if deploying it by Docker is a more positive experience.</p>
+<p>To see if Docker is really the easier option from the start to finish I will set up a Virtual Machine (running Windows server) and a Docker container and see if deploying it by Docker is a more positive experience. </p>
 
 <h3>Conclusion<h3>
 <hr>
+
+<p>No conclusion yet</p>
+
+</details>
+
+<details>
+<summary>Running Backend through Docker</summary>
 </details>
 
 
