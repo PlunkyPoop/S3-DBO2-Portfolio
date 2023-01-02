@@ -89,7 +89,41 @@ I'm not going to lie, when looking into backend languages I have looked into a f
 
 <p>For the front-end I created a new page where you will go when pressing the settings button</p>
 <img width="365" alt="image" src="https://user-images.githubusercontent.com/60787548/209320740-86746887-cd45-4240-9c94-250ea7dae5d5.png">
+ 
 
+<p>On that page it loads all the streaming services with image location and the imdb-code</p>
+<img width="829" alt="Schermafbeelding 2022-12-28 120213" src="https://user-images.githubusercontent.com/60787548/210219215-d5ffdafd-f6ec-43f4-b06b-8c70eb2095b5.png">
+ 
+ <p>So i created a blob storage on azure that saves all the images</p>
+ <img width="1168" alt="image" src="https://user-images.githubusercontent.com/60787548/210219390-39e7c37a-2923-4346-84e6-55cd86c00795.png">
+
+ <p>After that I made sure that after every change inside the carrousel it loads a new movie (set inside the settings menu)</p>
+ <p>After removing all the warnings inside the project I pushed both projects and created a new sonarcloud for both</p>
+ <img width="926" alt="Schermafbeelding 2023-01-02 111444" src="https://user-images.githubusercontent.com/60787548/210219763-0613b01f-fd68-4b09-a56c-33114222adbb.png">
+<img width="429" alt="Schermafbeelding 2023-01-02 111924" src="https://user-images.githubusercontent.com/60787548/210219791-1c203683-5627-4fb4-83ff-b4f6dcd3038d.png">
+ <p>They both failed</p>
+ <p>Frontend:</p>
+ <img width="870" alt="Schermafbeelding 2023-01-02 112314" src="https://user-images.githubusercontent.com/60787548/210219869-c563ad35-056a-4394-9e3f-e2d67fb5ea92.png">
+ <p>Backend:</p>
+<img width="920" alt="Schermafbeelding 2023-01-02 112347" src="https://user-images.githubusercontent.com/60787548/210219925-7d8c137a-69fd-4b75-b802-7902ff25196c.png">
+ 
+<details>
+ <summary>Examining the front-end errors</summary>
+ <p>When looking at the front-end erros we will see 1 bug, when opening that bug we see that I accidentally used the height property two times in my css. This is easy to fix</p>
+ <img width="769" alt="image" src="https://user-images.githubusercontent.com/60787548/210220499-837696ab-f57a-4611-a6e3-9e9edcd7cbe4.png">
+ <p>There were also a few code smells present, those also consisted of using the same property being used twice</p>
+ <img width="467" alt="image" src="https://user-images.githubusercontent.com/60787548/210220760-0c0d7432-628e-49ff-b447-bd7a1f2d4b24.png">
+ <p>After changing that and checking the master we will see that it will pass</p>
+ <img width="858" alt="image" src="https://user-images.githubusercontent.com/60787548/210222175-b674eb89-1e16-4938-b7ea-941fdcd5f5bc.png">
+ <p>With a mayor security hotspot, which I will skip now and research for my security reseach</p>
+ 
+
+ </details>
+ 
+ 
+  <details>
+  <summary>Examining the backend errors</summary>
+</details>
 </details>
 
 
