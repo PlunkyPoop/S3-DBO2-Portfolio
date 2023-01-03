@@ -154,8 +154,11 @@ I'm not going to lie, when looking into backend languages I have looked into a f
 <img width="1010" alt="image" src="https://user-images.githubusercontent.com/60787548/210244073-c7282bdf-493d-47c5-90d6-85fa875c6bf4.png">
 <p> When running it on github actions they all fail</p>
 <img width="690" alt="image" src="https://user-images.githubusercontent.com/60787548/210246633-d0a78066-c953-431c-b30d-07a9cad67687.png">
-<p>This is not really shocking as it's trying to send the data to my local backend (which he will never find) So the next thing to do is to put my backend on a live envoirment, for with we will use docker (See Chapter CI/CD - Running Backend on Docker)</p>
+<p>This is not really shocking as it's trying to send the data to my local backend (which he will never find) So the next thing to do is to put my backend on a live envoirment, for with we will use docker</p>
  
+ <p>I started by making a new webapp on azure for my backend</p>
+ <img width="709" alt="image" src="https://user-images.githubusercontent.com/60787548/210324845-8113d653-d364-4683-953b-51674de9129a.png">
+
 </details>
 
 
