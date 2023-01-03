@@ -158,6 +158,16 @@ I'm not going to lie, when looking into backend languages I have looked into a f
  
  <p>I started by making a new webapp on azure for my backend</p>
  <img width="709" alt="image" src="https://user-images.githubusercontent.com/60787548/210324845-8113d653-d364-4683-953b-51674de9129a.png">
+<p>And in my settings I set my public docker image</p>
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/60787548/210341355-b381e3eb-2103-455d-8de8-faa7d607da6d.png">
+<p>And when I started my app it immediately crashed, after some research I found that Azure webapp runs on port :80 or :8080, but my app runs on port :8090 (due to it also running on my server which already has something assigned on that port), so I had to change the azure port. You can easily do this by going to the app settings</p>
+<img width="847" alt="image" src="https://user-images.githubusercontent.com/60787548/210341893-ca7803a0-5544-4709-bd8c-73922ed317cb.png">
+<p>And when running the app again you will see that it shows my data</p>
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/60787548/210342091-5872df92-8810-4b7b-92ce-9da9acffc819.png">
+<p>So now we can change the front-end to get the data from the azure webapp (so the github tests will not fail)</p>
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/60787548/210342596-07650016-ad70-4f73-8455-ae50aa2bb1ec.png">
+<p>And they indeed passed the tests</p>
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/60787548/210346868-3790dd4e-989f-4992-b384-7e7d4b156588.gif">
 
 </details>
 
