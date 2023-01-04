@@ -371,7 +371,7 @@ another container without having the proper authorization, it's even possible to
 
 
 <h3> Which deploy alternatives are there? <h3>
-<h6>DOT: literature research?</h6>
+<h6>DOT: literature research</h6>
 <hr>
 <p>Before Docker, people used other methods to deploy their application.</p>
 
@@ -379,13 +379,25 @@ another container without having the proper authorization, it's even possible to
 <p>You can run a virtual machine and run the app inside it. I do think (because you have to run a whole instants
 of a Windows server inside it that it will not be very fast.</p>
 
-<h4>Filezilla (FTP)??? </h4>
-<p>Or you can also do it the very old way by just transfer the files to a server using FTP</p>
-
 <h3> Docker vs alternative option<h3>
 <h6>DOT: System test?</h6>
 <hr>
 <p>To see if Docker is really the easier option from the start to finish I will set up a Virtual Machine (running Windows server) and a Docker container and see if deploying it by Docker is a more positive experience. </p>
+
+<p>I will start by deploying my container app on my server, luckily this is very easy, I will just search for my app inside Unraid</p>
+<img width="862" alt="image" src="https://user-images.githubusercontent.com/60787548/210553800-c324d685-7bbf-4cec-82b3-1402f65a704d.png">
+
+<p>After that I set the port number to the same one my app uses (which is 8090)</p>
+<img width="909" alt="image" src="https://user-images.githubusercontent.com/60787548/210554175-8d08aca2-3dc1-428b-84b4-c026c0ebb8f5.png">
+<p>We will see that my app runs on port :8090</p>
+<img width="651" alt="image" src="https://user-images.githubusercontent.com/60787548/210554422-a7fdad9e-93c2-464d-b095-d048cca71074.png">
+<p>So now I can access my app when I go to that ip adress with that port</p>
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/60787548/210554929-d777198c-b60d-443f-adba-0cd1e85a0798.png">
+<hr>
+<p>For the windows server...</p>
+
+
+
 
 <h3>Conclusion<h3>
 <hr>
