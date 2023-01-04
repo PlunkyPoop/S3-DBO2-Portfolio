@@ -394,7 +394,37 @@ of a Windows server inside it that it will not be very fast.</p>
 <p>So now I can access my app when I go to that ip adress with that port</p>
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/60787548/210554929-d777198c-b60d-443f-adba-0cd1e85a0798.png">
 <hr>
-<p>For the windows server...</p>
+<p>For the windows server I started by adding the Roles and Features inside the Server Manager</p>
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/60787548/210555697-439f6a10-fea2-4eaa-84d8-ec842beec4c1.png">
+ <img width="628" alt="image" src="https://user-images.githubusercontent.com/60787548/210556274-18b70133-61b5-4b52-9bee-f8c35a13baac.gif">
+
+
+ <p>After that we see that the server is running on 10.0.15.55, and if we go to that address we see the simple windows server page</p>
+ <img width="623" alt="image" src="https://user-images.githubusercontent.com/60787548/210556629-52f56e8b-fee8-43d9-827c-2600020d069e.png">
+ <p>Next step is to get the backend of Hubflux running on it, for that I added FTP to be able to transfer the files to the server</p>
+ <img width="504" alt="image" src="https://user-images.githubusercontent.com/60787548/210558121-6c09af25-ff63-4730-ab70-1001b1a10de5.png">
+<img width="610" alt="image" src="https://user-images.githubusercontent.com/60787548/210558994-bd03354b-248a-4897-b419-81706419fb25.png">
+ <img width="585" alt="image" src="https://user-images.githubusercontent.com/60787548/210559073-0c83f840-8071-4e96-9c93-0f1a3fb81001.png">
+ <p>this was a fun attempt but that didn't really work in the end</p>
+ 
+ <p>I downloaded FileZilla on my server and checked the ip-adress</p>
+ <img width="435" alt="image" src="https://user-images.githubusercontent.com/60787548/210562573-110b29fb-4747-41f9-ae78-64d7050d2c46.png">
+
+ <p>I tried pinging it with my own PC, but that didnt work</p>
+ <img width="403" alt="image" src="https://user-images.githubusercontent.com/60787548/210562771-fcfae411-8f23-412c-b4f8-1b740984e0ed.png">
+
+ <p>So I turned off the firewall and after that it did work</p>
+ <img width="558" alt="image" src="https://user-images.githubusercontent.com/60787548/210563345-7cda5a39-1bd3-4b8b-bbf3-61a06e05f730.png">
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/60787548/210563494-89d38d3a-6489-4d99-8e02-d5a59384e99e.png">
+ <p>Added a inbound rule for the local ip adress and turned the firewall back on </p>
+ <img width="530" alt="image" src="https://user-images.githubusercontent.com/60787548/210564307-27918da3-4c24-46c0-8161-4f2e2f75be07.png">
+<p>After a lot of trial and error I found out that an IIS windows server doens't really like sharing by FTP, and people recommended sharing the folder, so I did that</p>
+ <img width="730" alt="image" src="https://user-images.githubusercontent.com/60787548/210566026-d46769ab-5efd-4b16-b0ed-f0e49d48f804.png">
+ <p>That way I could acces the folder from outside the virtual machine</p>
+  <img width="730" alt="image" src="https://user-images.githubusercontent.com/60787548/210566755-961802ba-41e9-4e5b-ba3e-6984136acf21.gif">
+
+ 
+ 
 
 
 
