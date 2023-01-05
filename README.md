@@ -433,7 +433,7 @@ of a Windows server inside it that it will not be very fast.</p>
 <img width="484" alt="image" src="https://user-images.githubusercontent.com/60787548/210737546-a3f8e68e-2f51-4396-96ce-a10c6baaf52f.png">
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/60787548/210738879-3f894d02-ed4d-4cb4-8622-a5bedb127714.png">
 <img width="577" alt="image" src="https://user-images.githubusercontent.com/60787548/210739209-18a6a0bb-10d4-4bd2-a03b-75391e626bf6.png">
-<p>This game me an error aswell, so it was time for plan B.</p>
+<p>This gave me an error aswell, so it was time for plan B.</p>
 <img width="872" alt="image" src="https://user-images.githubusercontent.com/60787548/210744050-29288a96-fe71-4ea5-8450-eb6ecac9a23e.png">
 <p>It's time for a linux server with apache</p>
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/60787548/210741700-e33aa19f-3d68-49ac-984b-5064a7d5fbc7.png">
@@ -449,7 +449,7 @@ of a Windows server inside it that it will not be very fast.</p>
 <img width="575" alt="image" src="https://user-images.githubusercontent.com/60787548/210752284-32010399-712f-429b-a6c1-1a8aff8a9f3e.png">
  
 
-<h3>Conclusion<h3>
+<h3>Conclusion</h3>
 <hr>
 <p>When using Docker, you can easily run you're application on different servers because it runs it's own instance, this makes the deployment phase easier. When you want your app to run inside a Windows server or a Linux you can get difficulties because they are not always compatible. </p>
 
