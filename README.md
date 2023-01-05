@@ -434,21 +434,26 @@ of a Windows server inside it that it will not be very fast.</p>
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/60787548/210738879-3f894d02-ed4d-4cb4-8622-a5bedb127714.png">
 <img width="577" alt="image" src="https://user-images.githubusercontent.com/60787548/210739209-18a6a0bb-10d4-4bd2-a03b-75391e626bf6.png">
 <p>This game me an error aswell, so it was time for plan B.</p>
-<img width="1124" alt="image" src="https://user-images.githubusercontent.com/60787548/210740489-f4aebe5f-67cd-4a4b-8643-c9448f6fe73b.png">
+<img width="872" alt="image" src="https://user-images.githubusercontent.com/60787548/210744050-29288a96-fe71-4ea5-8450-eb6ecac9a23e.png">
 <p>It's time for a linux server with apache</p>
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/60787548/210741700-e33aa19f-3d68-49ac-984b-5064a7d5fbc7.png">
-
-
-
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/60787548/210746045-e24d147d-a3dc-41bb-93bb-e41d699c2354.png">
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/60787548/210748060-46b6448f-eb2a-4f9d-943e-20384e04f07d.png">
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/60787548/210748435-fd7a5df3-03fa-462c-87b2-a1a1c467ab14.png">
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/60787548/210748653-037e5dc5-773d-4809-9287-64ca76373c46.png">
+ <p>I have to give myself rights to get into the folder containing the html files</p>
+ <img width="431" alt="image" src="https://user-images.githubusercontent.com/60787548/210750028-4c117bd4-f1f7-4905-81cb-a0ea28f56884.png"></br>
+<img width="568" alt="image" src="https://user-images.githubusercontent.com/60787548/210751126-62bc5541-627f-43a4-b1d4-3e552dd8cc0a.png">
+ <p>When starting my app inside the terminal you can see that I can access it on both the ubuntu desktop and my own laptop with port :8090</p>
+ <img width="527" alt="image" src="https://user-images.githubusercontent.com/60787548/210752218-969da232-7a5f-4cc1-904a-ea129b7aad8a.png">
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/60787548/210752284-32010399-712f-429b-a6c1-1a8aff8a9f3e.png">
  
-
-
-
 
 <h3>Conclusion<h3>
 <hr>
+<p>When using Docker, you can easily run you're application on different servers because it runs it's own instance, this makes the deployment phase easier. When you want your app to run inside a Windows server or a Linux you can get difficulties because they are not always compatible. </p>
 
-<p>No conclusion yet</p>
+<p>When running it on a VM you also run against another problem, So in my case it runs now this version of the app, but when I want to update it you have to switch the old files out and send the new files (by SFTP) over again and run the whole server again. Docker is easier because it automatically recognizes changes inside the Docker Hub and can update the app based on that, that makes the whole CI/CD deploying app positivly easier.</p>
 
 </details>
 
