@@ -423,7 +423,23 @@ of a Windows server inside it that it will not be very fast.</p>
  <p>That way I could acces the folder from outside the virtual machine</p>
   <img width="730" alt="image" src="https://user-images.githubusercontent.com/60787548/210566755-961802ba-41e9-4e5b-ba3e-6984136acf21.gif">
 
- 
+ <p>Clearly I didn't do my research correctly cause running a java based app on a IIS web service is not really recommended, and they recommend using docker to run it.</p>
+ <img width="566" alt="image" src="https://user-images.githubusercontent.com/60787548/210733287-467b4cf2-d25e-404c-b352-576311771d45.png">
+<p>So I decided to follow <a href="https://www.youtube.com/watch?v=OOVE_g6F8mQ&ab_channel=DanGeabunea%28RomanianCoder%29">this</a> video to run it as a service</p>
+
+<p>Starting by downloading this from github on my server</p>
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/60787548/210735307-e92de065-dc1b-401c-93e9-a1612e75f45f.png">
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/60787548/210736260-c84b74b2-c60a-4f1c-81d7-0d4ab6bec5cc.png">
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/60787548/210737546-a3f8e68e-2f51-4396-96ce-a10c6baaf52f.png">
+<img width="596" alt="image" src="https://user-images.githubusercontent.com/60787548/210738879-3f894d02-ed4d-4cb4-8622-a5bedb127714.png">
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/60787548/210739209-18a6a0bb-10d4-4bd2-a03b-75391e626bf6.png">
+<p>This game me an error aswell, so it was time for plan B.</p>
+<img width="1124" alt="image" src="https://user-images.githubusercontent.com/60787548/210740489-f4aebe5f-67cd-4a4b-8643-c9448f6fe73b.png">
+<p>It's time for a linux server with apache</p>
+<img width="664" alt="image" src="https://user-images.githubusercontent.com/60787548/210741700-e33aa19f-3d68-49ac-984b-5064a7d5fbc7.png">
+
+
+
  
 
 
@@ -436,9 +452,6 @@ of a Windows server inside it that it will not be very fast.</p>
 
 </details>
 
-<details>
-<summary>Running Backend through Docker</summary>
-</details>
 
 
 
