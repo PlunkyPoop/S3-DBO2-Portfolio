@@ -981,7 +981,7 @@ support by fully or partially automating them). Or business processes needed for
 <p>
 For our business process I decided to zoom into the "taking orders" within 
 our app, because our base design 
-(<a href='https://github.com/brittbrink/S3-DB02-Portfolio#leeruitkomst-7-business-processen'>made my Britt</a>) was very global, and our app is a little more complicated than was shown in the base design
+(<a href='https://github.com/brittbrink/S3-DB02-Portfolio#leeruitkomst-7-business-processen'>made by Britt</a>) was very global, and our app is a little more complicated than was shown in the base design
 </p>
 
 <p>
@@ -1010,6 +1010,10 @@ had to write a lot of emails, like this one for example:</p>
 <p>To keep track of my progress I had a few progress/feedback conversations with my teachers.</p>
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/60787548/203740409-69fbedb4-76e1-4e3c-a30f-6e6e70734e83.png">
 <p>At our third spint review we had to give a presentation, but because our group wasn't that well prepared at the time I decided to lead the presentation</p>
+<p>To research the security risks inside my project I made a <a href='https://github.com/PlunkyPoop/S3-DBO2-Portfolio/blob/main/Security%20Research.pdf'>security research</a></p>
 
+<p>I also made a business process(<a href='https://github.com/PlunkyPoop/S3-DBO2-Portfolio#7-business-processes'>See business processes</a>)</p>
 
+<p>To see if using docker containers positively impact deploying my app I researched it using the DOT method ( <a href='https://github.com/PlunkyPoop/S3-DBO2-Portfolio#4-ci-cd'>See CI/CD</a>)</p>
+<p>And I've walked the whole process of a requirement from beginning to end (including tests and deploying) (<a href='https://github.com/PlunkyPoop/S3-DBO2-Portfolio#1-web-application'>See dropdown "User story from start to finish"</a>)</p>
 
