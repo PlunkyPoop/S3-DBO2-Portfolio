@@ -1008,8 +1008,12 @@ design (architectural) solutions. You choose and substantiate solutions for a gi
 had to write a lot of emails, like this one for example:</p>
 <img width="869" alt="image" src="https://user-images.githubusercontent.com/60787548/203740089-3c97157e-994f-444d-9731-531b8f6a423c.png">
 <p>To keep track of my progress I had a few progress/feedback conversations with my teachers.</p>
-<img width="628" alt="image" src="https://user-images.githubusercontent.com/60787548/203740409-69fbedb4-76e1-4e3c-a30f-6e6e70734e83.png">
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/60787548/211572579-12b47292-3342-4e02-bedf-21f67962db7f.png">
 <p>At our third spint review we had to give a presentation, but because our group wasn't that well prepared at the time I decided to lead the presentation</p>
+<img width="1031" alt="image" src="https://user-images.githubusercontent.com/60787548/211572015-2dd2a2a8-77c7-41fd-9bc5-5086042c5c32.png">
+
+<p>After every sprint had to fill in a peer review</p>
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/60787548/211571897-0ca9e936-56b7-46e1-9c37-e88aabc377ce.png">
 <p>To research the security risks inside my project I made a <a href='https://github.com/PlunkyPoop/S3-DBO2-Portfolio/blob/main/Security%20Research.pdf'>security research</a></p>
 
 <p>I also made a business process(<a href='https://github.com/PlunkyPoop/S3-DBO2-Portfolio#7-business-processes'>See business processes</a>)</p>
