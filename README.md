@@ -885,6 +885,37 @@ To test if the design idea is clear and users understand the purpose of it I cre
 <img width="735" alt="image" src="https://user-images.githubusercontent.com/60787548/203735643-f5ea58bd-3df4-4281-a0e2-98d411f2e0b1.png">
 
 </details>
+<details> 
+  <summary>Usability testen</summary>
+  </br>
+<p>For our group project we took two usability tests, one by someone who knows the idea behind our app but hasn't used it, and one that never used it and doesn't know what the app even is.</p>
+
+<p>Feedback person 1: (has basic understanding of our app idea)</p>
+<ul>
+ <li>The button in the beginning gives off hints it's already clickable even when nothing is filled in</li>
+ <img width="531" alt="image" src="https://user-images.githubusercontent.com/60787548/211495099-57192084-5c14-4012-8e02-83bf93f41120.png">
+ <li>When food gets removed before order is placed (inside the receipt page) it still gets ordered</li>
+ <li>The navigation in the top row has no clear indication what everything means (suggests adding some text underneath it)</li>
+ 
+</ul>
+
+<p>Feedback person 2: (never used or seen it)</p>
+<ul>
+ <li>Is feels like a "Thuisbezorgd"</li>
+ <li>Is it really handy for the kitchen to swipe the cards instead of clicking it?</li>
+ <li>Can I see somewhere how long my order takes to make?</li>
+ <li>It's not really clear it are buttons or images on the navagation bar</li>
+ <img width="203" alt="image" src="https://user-images.githubusercontent.com/60787548/211498408-e188f9b3-a5e0-4236-8db7-b978c06b843d.png">
+</ul>
+
+<p>When looking at both feedback points you can see that both people say something about our navigation bar, it's not very clear if they are clickable and what they even mean, so this clearly needs changing</p>
+
+<p>Also the "order progress" feature is something that would need to be discussed with our stakeholder, this is not something that was mentioned in the requirements</p>
+
+<p>The second person was also very confused about our app in the begin page, he asks what he needed to do because our introduction text is still a lorum ipsum placeholder text, so this definitly needs changing</p>
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/60787548/211499855-a6c25c88-34a4-44e7-853d-021bdc7cd22e.png">
+
+</details>
  <details> 
   <summary>Individual project requirements</summary>
 <p>For my individual project I have a few requirements:</p>
